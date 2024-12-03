@@ -1,0 +1,1840 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigación Científica y de Educación Superior de Ensenada",
+            "siglas_cpi": "CICESE",
+            "descripción_breve": "Es una institución pública de investigación y posgrado en ciencias biológicas, físicas, de la información, del mar y de la Tierra. ",
+            "descripción": "El CICESE, fundado en 1973, es un centro de investigación clave en México, reconocido por su excelencia académica a nivel nacional e internacional. Como parte del sistema de centros públicos de Conacyt, contribuye al desarrollo del país mediante la formación de recursos humanos y la generación de conocimiento para abordar desafíos socioeconómicos.",
+            "misión": "Generar conocimiento y tecnología que contribuya a la solución de problemas universales, nacionales y regionales, realizando investigación básica y aplicada y formando recursos humanos a nivel posgrado en ciencias biológicas, físicas, de la información, del mar y de la Tierra, dentro de un marco de responsabilidad, ética y liderazgo en beneficio de la sociedad.",
+            "visión": "Ser un centro público de investigación con gran impacto transformador en la sociedad a través de la investigación científica, desarrollo tecnológico y de la formación de recursos humanos de alta de excelencia internacional.",
+            "titular": "Dr. David Hilario Covarrubias Rosales",
+            "fecha_designación_titular": "2021-01-01",
+            "grado_académico_titular": "Doctor",
+            "especialidad_titular": "Mecánico Electricista",
+            "origen": "El Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE) fue la segunda institución creada por el Consejo Nacional de Ciencia y Tecnología (CONACYT) para descentralizar las actividades científicas y tecnológicas en México.",
+            "fecha_creación": "1973-09-18",
+            "historia_establecimiento": "Desde su creación, el CICESE ha sido un centro de formación académica líder, ofreciendo una amplia gama de programas de posgrado en ciencias. Su campus, inaugurado en 1977, ha experimentado un crecimiento significativo, albergando aulas y laboratorios modernos en más de 15 hectáreas. Además, el CICESE ha establecido unidades foráneas en La Paz y Monterrey para expandir su alcance investigativo. En la actualidad, es el centro público de investigación más grande dentro del Sistema de Centros Públicos de Investigación del Conacyt.",
+            "contexto_histórico": "Política nacional por descentralizar la investigación científica, la presencia de la Escuela Superior [hoy Facultad] de Ciencias Marinas de la Universidad Autónoma de Baja California (UABC) y la cercanía del Scripps Institution of Oceanography (SIO); la decisión, en 1970, de la UNAM de construir el Observatorio Astronómico Nacional en la sierra de San Pedro Mártir; la intensa actividad tectónica y sísmica de la península de Baja California y del golfo de California que justificaba la realización de estudios en las ciencias de la Tierra, y el requerimiento por desarrollar instrumentación electrónica y óptica como apoyo a la UNAM y a la investigación oceanográfica y geofísica del nuevo centro.",
+            "tipo_entidad_legal": "Organismo descentralizado, con personalidad jurídica y patrimonio propio, con autonomía de decisión técnica, operativa y administrativa",
+            "figura_jurídica": "Organismo Público Descentralizado",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "BASES GENERALES PARA LA PROFESIONALIZACIÓN DEL PERSONAL DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE LAS ENTIDADES PARAESTATALES"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS EN MATERIA DE AUSTERIDAD REPUBLICANA DE LAADMINISTRACIÓN PÚBLICA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS PARA LA DESIGNACIÓN, SUPLENCIA E INTERINATO DE LAS PERSONAS TITULARES DE LAS DIRECCIONES GENERALES O EQUIVALENTES DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE PLANEACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2024"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DEL SISTEMA NACIONAL DE CENTROS PÚBLICOS DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2018,
+                    "total": 580045827,
+                    "recursos_fiscales": 523153890,
+                    "recursos_propios": 56891937
+                },
+                {
+                    "año": 2019,
+                    "total": 606074068,
+                    "recursos_fiscales": 502381130,
+                    "recursos_propios": 103692938
+                },
+                {
+                    "año": 2020,
+                    "total": 593562701,
+                    "recursos_fiscales": 540170018,
+                    "recursos_propios": 53392683
+                },
+                {
+                    "año": 2021,
+                    "total": 802723082,
+                    "recursos_fiscales": 572358775,
+                    "recursos_propios": 230364307
+                },
+                {
+                    "año": 2022,
+                    "total": 729243730,
+                    "recursos_fiscales": 124665198,
+                    "recursos_propios": 604578532
+                },
+                {
+                    "año": 2023,
+                    "total": 730534960,
+                    "recursos_fiscales": 656187003,
+                    "recursos_propios": 74347957
+                },
+                {
+                    "año": 2024,
+                    "total": 744364948,
+                    "recursos_fiscales": 648764976,
+                    "recursos_propios": 95599972
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS EN CIENCIAS DE LA COMPUTACIÓN",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "CIENCIA E INGENIERÍA DE LA COMPUTACIÓN"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN CIENCIAS EN CIENCIAS DE LA COMPUTACIÓN",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "CIENCIA E INGENIERÍA DE LA COMPUTACIÓN"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS DE LA TIERRA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                            "disciplina_snii": "GEOFÍSICA Y SISMOLOGÍA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN CIENCIAS DE LA TIERRA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                            "disciplina_snii": "GEOFÍSICA Y SISMOLOGÍA"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS EN CIENCIAS DE LA VIDA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "BIOLOGÍA",
+                            "disciplina_snii": "BIOLOGÍA INTEGRATIVA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN CIENCIAS EN CIENCIAS DE LA VIDA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "BIOLOGÍA",
+                            "disciplina_snii": "FITOPATOLOGÍA"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS EN ECOLOGÍA MARINA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "ECOLOGÍA MARINA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN CIENCIAS EN ECOLOGÍA MARINA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "ECOLOGÍA"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS EN ELECTRÓNICA Y TELECOMUNICACIONES",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "INGENIERÍA ELECTRÓNICA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN CIENCIAS EN ELECTRÓNICA Y TELECOMUNICACIONES",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "INGENIERÍA ELÉCTRICA"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS EN NANOCIENCIAS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS FISICAS",
+                            "disciplina_snii": "NANOCIENCIAS"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN CIENCIAS EN NANOCIENCIAS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS FISICAS",
+                            "disciplina_snii": "NANOCIENCIAS"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS EN OCEANOGRAFÍA FÍSICA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS DEL MAR",
+                            "disciplina_snii": "OCEANOGRAFÍA FÍSICA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN CIENCIAS EN OCEANOGRAFÍA FÍSICA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS DEL MAR",
+                            "disciplina_snii": "OCEANOGRAFÍA FÍSICA"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS EN ÓPTICA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS FÍSICAS",
+                            "disciplina_snii": "ÓPTICA / FOTÓNICA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN ÓPTICA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS FÍSICAS",
+                            "disciplina_snii": "FISICA APLICADA"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN TECNOLOGÍAS AVANZADAS E INTEGRADAS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "INGENIERÍA FÍSICA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN CIENCIAS EN ACUÍCULTURA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "PESCA",
+                            "disciplina_snii": "ACUACULTURA"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS EN ACUICULTURA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "SALUD Y PRODUCCIÓN ANIMAL",
+                            "disciplina_snii": "ZOOTECNIA Y CIENCIAS PECUARIAS"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Unidad La Paz",
+                    "descripción_unidad": "El quehacer científico de toda la Unidad La Paz se integra en una problemática denominada Riesgos y Peligros Naturales, que atiende a las demandas actuales sobre sismos y ciclones tropicales, así como al estudio de procesos oceanográficos y ecológicos, y sus efectos en la integridad ecológica de los ecosistemas marinos, la biodiversidad y espacios naturales del noroeste de México.",
+                    "dirección_postal": "23050",
+                    "latitud": 24.128413277604853,
+                    "longitud": -110.30662926781444,
+                    "departamentos": [
+                        {
+                            "departamento": "Ciencias de la Tierra",
+                            "descripción_departamento": "Investigación relacionada con la geología, oceanografía y fenómenos geofísicos para comprender la estructura y dinámica del planeta Tierra.",
+                            "áreas": [
+                                {
+                                    "área": "Geología",
+                                    "descripción_del_área": "Estudio de la composición, estructura, procesos y evolución de la Tierra, incluyendo la formación de rocas, minerales y la historia geológica.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Estudio de peligro sísmico probabilista.",
+                                            "descripción": "Calculamos los valores de aceleración máxima para diferentes periodos de retorno basado en estimaciones probabilistas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudio de la corteza",
+                                            "descripción": "Investigación de Estudio de  deformaciones y estado de esfuerzos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudios de la fuente sísmica",
+                                            "descripción": "Estudio de la geometría del plano de falla con tensor de momento completo",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudios de sismos relevantes",
+                                            "descripción": "Análisis detallado de terremotos significativos para comprender sus causas, impactos y mejorar la predicción y mitigación de riesgos sísmicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        },
+                        {
+                            "departamento": "Aeroecología Marina",
+                            "descripción_departamento": "El departamento de Aeroecología Marina se dedica a Investigación de las interacciones entre los organismos marinos y los procesos atmosféricos, incluyendo el impacto del clima y el intercambio de gases.",
+                            "áreas": [
+                                {
+                                    "área": "Aeroecología Marina",
+                                    "descripción_del_área": "El área de Aeroecología Marina se dedica a Investigación de las interacciones entre los organismos marinos y los procesos atmosféricos",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Estudio de la Pardela mexicana en Isla Natividad",
+                                            "descripción": "Profundiza en la ecología y comportamiento de la pardela mexicana para entender su resiliencia ante el cambio climático y sus amenazas, reimaginando su conservación.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de riesgo de impactos entre fauna y aviones en aeropuertos",
+                                            "descripción": "Se evalúa el riesgo de colisiones entre fauna y aviones en aeropuertos mexicanos para implementar medidas preventivas y evitar accidentes, entrelazando conocimientos ecológicos y aeronáuticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Monitoreo aves marinas del Parque Nacional zona marina de Isla Espíritu Santo",
+                                            "descripción": "Se monitorea la población y distribución de aves marinas en el Parque Nacional Isla Espíritu Santo, creando un mosaico de datos esenciales para su conservación.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudio del sueño en aves marinas pelágicas",
+                                            "descripción": "Se investiga el comportamiento del sueño en aves marinas pelágicas, desentrañando cómo duermen en vuelo y en colonias, lo cual es un aspecto integral y enigmático de su biología.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudio del estado de salud de las aves marinas",
+                                            "descripción": "Se analiza la salud de aves marinas para detectar patógenos y efectos de contaminantes, con el fin de mejorar las estrategias de conservación y manejo de estas especies.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        },
+                        {
+                            "departamento": "Biología de la Conservación",
+                            "descripción_departamento": "Estudio de los principios y prácticas necesarios para preservar la biodiversidad, enfocándose en la protección de especies, sus hábitats y ecosistemas, y abordando los desafíos derivados de la actividad humana y el cambio climático.",
+                            "áreas": [
+                                {
+                                    "área": "Biología de la Conservación",
+                                    "descripción_del_área": "Es un área de la biología que se centra en el estudio de la biodiversidad y los ecosistemas con el objetivo de desarrollar estrategias y acciones para la protección, restauración y manejo sostenible de las especies y los hábitats en riesgo de extinción.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Monitoreo de especies selectas de aves migratorias y de sus hábitats",
+                                            "descripción": "Se realiza el monitoreo de aves migratorias durante el invierno y la reproducción, complementando con datos ambientales y antrópicos para analizar tendencias poblacionales y el impacto del disturbio humano y la pérdida de hábitat.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Conservación de Ecosistemas"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        },
+                        {
+                            "departamento": "Macroecología Marina",
+                            "descripción_departamento": "Estudio de los patrones y procesos ecológicos a gran escala en los océanos, abarcando la distribución, abundancia y diversidad de organismos marinos, así como las interacciones entre ellos y con su entorno, para comprender y gestionar mejor los ecosistemas marinos.",
+                            "áreas": [
+                                {
+                                    "área": "Ecología Marina",
+                                    "descripción_del_área": "Estudio de las interacciones entre los organismos marinos y su entorno, incluyendo la dinámica de poblaciones, comunidades, y ecosistemas, así como los impactos de factores ambientales y humanos en la biodiversidad y la salud de los océanos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Predicciones de Megafauna Marina",
+                                            "descripción": "Se realiza un estudio exhaustivo de la dinámica de los ecosistemas marinos a gran escala, con énfasis en la megafauna marina, utilizando enfoques cuantitativos y predictivos para comprender mejor su comportamiento y distribución en el océano.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "CIENCIAS AMBIENTALES",
+                                                    "disciplina_snii": "Ecología Marina"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        },
+                        {
+                            "departamento": "Meteorología Regional",
+                            "descripción_departamento": "Estudio del clima y los fenómenos atmosféricos a escala local o regional, centrándose en la comprensión de los patrones climáticos, las condiciones meteorológicas específicas y sus variaciones temporales en un área geográfica limitada. Esto incluye el análisis de factores como la temperatura, la humedad, la presión atmosférica, la precipitación y los vientos, así como la predicción del clima a corto y mediano plazo para una región específica.",
+                            "áreas": [
+                                {
+                                    "área": "Meteorología",
+                                    "descripción_del_área": "Ciencia que estudia la atmósfera terrestre y los fenómenos atmosféricos, incluyendo el análisis de variables como temperatura, humedad, presión, viento, y precipitación para comprender y predecir el clima en diversas escalas temporales y espaciales, así como sus impactos en la sociedad y el medio ambiente.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Análisis de fenómenos atmosféricos en Baja California",
+                                            "descripción": "Estudio detallado de los eventos atmosféricos en la región, incluyendo ciclones tropicales, tormentas convectivas y sistemas frontales, utilizando observaciones satelitales y modelos meteorológicos para comprender y predecir su impacto en la población y el medio ambiente.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Meteorología"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        },
+                        {
+                            "departamento": "Oceanografía Tropical",
+                            "descripción_departamento": "Investigación centrada en el estudio de los océanos en regiones tropicales, abordando aspectos como la circulación oceánica, la variabilidad climática, la biodiversidad marina, los procesos biogeoquímicos y los impactos del cambio climático en estos ecosistemas.",
+                            "áreas": [
+                                {
+                                    "área": "Ciencias del Mar",
+                                    "descripción_del_área": "Esta área investiga la dinámica física, química y biológica de los sistemas marinos, así como los impactos del cambio global, la contaminación y la sobreexplotación en los ecosistemas marinos y en la vida humana.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Oceanografía Dinámica Costera y de Mesoescala",
+                                            "descripción": "Estudio de la circulación y procesos físicos en las regiones costeras y de mesoescala, con énfasis en la interacción entre la costa y el océano abierto.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DEL MAR",
+                                                    "disciplina_snii": "Oceanografía Costera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Oceanografía Satelital",
+                                            "descripción": "Investigación sobre el uso de datos satelitales para analizar patrones oceánicos, incluyendo la temperatura superficial del mar, la altura de las olas y la distribución de la clorofila, entre otros parámetros.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DEL MAR",
+                                                    "disciplina_snii": "Oceanografía Costera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Oceanografía Biológica por Sensores Remotos",
+                                            "descripción": "Análisis de la distribución y la actividad de la vida marina utilizando imágenes satelitales y otros sensores remotos para entender la dinámica de los ecosistemas marinos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DEL MAR",
+                                                    "disciplina_snii": "Oceanografía Costera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Manejo de Datos",
+                                            "descripción": "Desarrollo de metodologías para la gestión, procesamiento y análisis de grandes conjuntos de datos oceanográficos, facilitando la obtención de información relevante para la investigación y la toma de decisiones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DEL MAR",
+                                                    "disciplina_snii": "Oceanografía Costera"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Cambio Climático",
+                                            "descripción": "Estudio de los efectos del cambio climático en los océanos tropicales, incluyendo el aumento de la temperatura del agua, la acidificación oceánica y los cambios en la circulación, así como las posibles consecuencias para los ecosistemas marinos y las comunidades humanas dependientes del mar.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DEL MAR",
+                                                    "disciplina_snii": "Oceanografía Costera"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -110.30662926781444,
+                        24.128413277604853
+                    ],
+                    "estado": "Baja California Sur",
+                    "municipio": "Municipio de La Paz",
+                    "ciudad": "Municipio de La Paz",
+                    "código_postal": "23050"
+                },
+                {
+                    "nombre_unidad": "Unidad de Transferencia Tecnológica Tepic",
+                    "descripción_unidad": "Unidad de Transferencia Tecnológica Tepic, Realizamos investigación aplicada en el área de las Tecnologías de la Información y Comunicación (TIC), y generamos desarrollos tecnológicos.",
+                    "dirección_postal": "63173",
+                    "latitud": 21.485143386158644,
+                    "longitud": -104.8487963460373,
+                    "departamentos": [
+                        {
+                            "departamento": "Ciencias en Tecnologías Avanzadas e Integradas",
+                            "descripción_departamento": "Tiene un enfoque multidisciplinar, orientado en analizar, diseñar y desarrollar dispositivos y sistemas inteligentes para atender problemas cientícos y tecnológicos",
+                            "áreas": [
+                                {
+                                    "área": "Interacción Humano Computadora",
+                                    "descripción_del_área": "Esta disciplina abarca aspectos como el diseño de interfaces de usuario intuitivas y accesibles, la usabilidad de software y hardware, la interacción mediante gestos, voz o realidad virtual, así como la comprensión de los aspectos psicológicos y sociales relacionados con la interacción con la tecnología.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Salud mental y adicciones",
+                                            "descripción": "Implementación de un módulo de tamizaje digital para la detección de trastornos mentales y adicciones, con aplicación móvil para atención y seguimiento remoto, además del desarrollo de un videojuego serio educativo sobre adicciones dirigido a adolescentes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Plataforma computacional para prevención del suicidio",
+                                            "descripción": "Desarrollo de una plataforma web y una aplicación móvil para la detección, seguimiento y atención remota de personas en riesgo de suicidio, basada en terapia cognitivo-conductual, con el objetivo de reducir la consumación de suicidios.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Videojuego serio para promover la salud infantil",
+                                            "descripción": "Diseño e implementación de un videojuego educativo para niños de 6 a 12 años, centrado en la promoción de hábitos alimenticios saludables y la actividad física para combatir el sobrepeso y la obesidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Recopilación de datos de interacción niño-robot",
+                                            "descripción": "Análisis automático de emociones, actitudes, edad, sexo, habilidades sociales y personalidad mediante la interacción entre niños y robots, con el objetivo de comprender mejor las interacciones humanas y mejorar el diseño de sistemas interactivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Inteligencia Artificial",
+                                    "descripción_del_área": " Campo de estudio que se centra en el desarrollo de sistemas y algoritmos computacionales que pueden realizar tareas que normalmente requieren inteligencia humana.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Aprendizaje por refuerzo rápido y seguro",
+                                            "descripción": "Abordaje de la lentitud y riesgos potenciales del aprendizaje por refuerzo mediante la incorporación de medidas de similitud entre estados y acciones, junto con la consideración del factor de riesgo, con el fin de desarrollar políticas de aprendizaje más rápidas y seguras.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis del comportamiento de perros de búsqueda y rescate",
+                                            "descripción": "Desarrollo de métodos computacionales basados en el reconocimiento de patrones en vocalizaciones, movimientos y posturas para el análisis y diagnóstico del comportamiento de los perros de búsqueda y asistencia.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Clasificación automática de ladridos de perros domésticos",
+                                            "descripción": "Desarrollo de una aplicación para la clasificación automática de ladridos de perros domésticos, capaz de identificar patrones acústicos que indiquen diferentes estados emocionales o situaciones de riesgo, con aplicación en la seguridad doméstica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Análisis de Datos",
+                                    "descripción_del_área": "Proceso de examinar, limpiar, transformar y modelar datos con el fin de descubrir información útil, llegar a conclusiones y apoyar la toma de decisiones, utilizando técnicas estadísticas y de minería de datos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Agente virtual conversacional para identificar problemáticas de la pandemia de COVID-19",
+                                            "descripción": "Desarrollo de un agente virtual que utiliza la conversación para identificar las problemáticas más comunes relacionadas con la pandemia de COVID-19 en la población, brindando orientación adecuada y apoyo social.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -104.8487963460373,
+                        21.485143386158644
+                    ],
+                    "estado": "Nayarit",
+                    "municipio": "Tepic",
+                    "ciudad": "Tepic",
+                    "código_postal": "63173"
+                },
+                {
+                    "nombre_unidad": "Unidad Monterrey",
+                    "descripción_unidad": "Unidad Monterrey, r investigación científica básica y aplicada, formar capital humano y brindar servicios tecnológicos con base en líneas de investigación compatibles con las necesidades de las industrias de la región.",
+                    "dirección_postal": "66629",
+                    "latitud": 25.762928321529117,
+                    "longitud": -100.11303817098273,
+                    "departamentos": [
+                        {
+                            "departamento": "Ciencias en Tecnologías Avanzadas e Integradas",
+                            "descripción_departamento": "Tiene un enfoque multidisciplinar, orientado en analizar, diseñar y desarrollar dispositivos y sistemas inteligentes para atender problemas cientícos y tecnológicos",
+                            "áreas": [
+                                {
+                                    "área": "Nanoingeniería y Tecnología Láser (NLTech)",
+                                    "descripción_del_área": "Investigación, desarollo, implementación y evaluación de técnicas y métodos para el diseño, modelado teórico, fabricación y caracterización de estructuras y dispositivos fotónicos de última generación, que tenga potenciales aplicaciones a tecnologías compatibles con la industria 4.0 y ciudades inteligentes.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Plasmónica",
+                                            "descripción": "Estudio de la interacción entre la luz y los metales nanoestructurados, con aplicaciones en la mejora de sensores ópticos y dispositivos fotónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_snii": "Óptica/Fotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sensores ópticos",
+                                            "descripción": "Investigación en el desarrollo y aplicación de sensores que utilizan la luz para detectar y medir diversas propiedades físicas y químicas de su entorno.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_snii": "Óptica/Fotónica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Metafotónica integrada",
+                                            "descripción": "Exploración de la integración de dispositivos fotónicos en sistemas micro/nanoestructurados para el control y manipulación de la luz, con potenciales aplicaciones en la mejora de la eficiencia y funcionalidad de componentes fotónicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS MATEMÁTICAS",
+                                                    "disciplina_snii": "Óptica/Fotónica"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Tecnología e Investigación en Dispositivos Interconectados",
+                                    "descripción_del_área": "Investigación y desarrollo de modelado, simulación y experimentación en el área de sistemas formados por entidades inteligentes, interconectadas o con interacciones complejas, y sistemas donde hay propagación y adquisición de señales en medios altamente complejos",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tecnologías y Redes IoT para sistemas ciber-físicos",
+                                            "descripción": "Desarrollo de soluciones de transmisión de información utilizando protocolos de enrutamiento y dispositivos electrónicos con restricciones, con enfoque en la recolección y análisis de señales fisiológicas y biomecánicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Óptica aplicada a dispositivos conectados",
+                                            "descripción": "Investigación en el modelado y análisis del ojo humano, así como en el procesamiento digital de imágenes para reconocimiento de patrones en diversas aplicaciones de entornos inteligentes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Metodologías de evaluación subjetiva para dispositivos interconectados",
+                                            "descripción": "Desarrollo de técnicas para evaluar sistemas acústicos de comunicación, centrándose en la inteligibilidad del habla en diferentes entornos, como la telemedicina, considerando factores como el ruido ambiental.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de señales y modelado matemático de sistemas fisiológicos",
+                                            "descripción": "Estudio de señales fisiológicas en función del tiempo y modelado de sistemas utilizando herramientas de elemento finito y diferencias finitas, para comprender mejor el funcionamiento de sistemas fisiológicos y su relación con el tiempo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Informática"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -100.11303817098273,
+                        25.762928321529117
+                    ],
+                    "estado": "Nuevo León",
+                    "municipio": "Desconocido",
+                    "ciudad": "Apodaca",
+                    "código_postal": "66629"
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/CICESE",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/cicese_oficial",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/CICESEciencia",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://www.twitter.com/todoscicese",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Spotify",
+                    "identificador": "https://open.spotify.com/show/1ln4N878kYe03kuwru61O5?si=s0zg8t54TyCF3qppJpuQgg&dl_branch=1",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ],
+            "importancia_diagnóstico": "",
+            "fuentes_financiamiento": [
+                {
+                    "fecha": "1900-01-01",
+                    "vigencia": "",
+                    "descripción": "",
+                    "monto_financiamiento": 0,
+                    "documentos": [
+                        {
+                            "fecha": "1900-01-01",
+                            "descripción": "",
+                            "liga": ""
+                        }
+                    ]
+                }
+            ],
+            "síntesis_hallazgos": [
+                {
+                    "hallazgo": "",
+                    "fecha_inicio": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "reporta": "",
+                    "relevancia": "mediana",
+                    "notas": []
+                }
+            ],
+            "propuestas_fortalecimiento": [
+                {
+                    "propuesta": "",
+                    "fecha_inicio": "1900-01-01",
+                    "responsables": [],
+                    "relevancia": "alta",
+                    "avances": [
+                        {
+                            "fecha": "1900-01-01",
+                            "avance": ""
+                        }
+                    ]
+                }
+            ],
+            "sindicatos": [
+                {
+                    "sindicato": "",
+                    "tipo_agremiados": "Desconocido",
+                    "número_agremiados": [
+                        {
+                            "año": 0,
+                            "agremiados": 0
+                        }
+                    ]
+                }
+            ],
+            "coordinates": [
+                -116.66530553068529,
+                31.868128192939427
+            ]
+        }
+    ]
+}
