@@ -1,0 +1,940 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Colegio de la Frontera Sur",
+            "siglas_cpi": "ECOSUR",
+            "descripción_breve": "nació con la finalidad de desarrollar capacidades científicas en uno de los contextos más difíciles del país, marcado de manera especial por la pobreza y el rezago en las condiciones de vida de los habitantes de la región, además de su diversidad étnica y cultural, la gran cantidad de recursos biológicos y energéticos existentes y la cercanía con Centroamérica, hacen de la frontera sur una zona que ofrece grandes retos en materia de estudio e intervención.",
+            "descripción": "nació con la finalidad de desarrollar capacidades científicas en uno de los contextos más difíciles del país, marcado de manera especial por la pobreza y el rezago en las condiciones de vida de los habitantes de la región, además de su diversidad étnica y cultural, la gran cantidad de recursos biológicos y energéticos existentes y la cercanía con Centroamérica, hacen de la frontera sur una zona que ofrece grandes retos en materia de estudio e intervención.",
+            "misión": "El Colegio de la Frontera Sur es un centro público de investigación científica, que busca contribuir al desarrollo sustentable de la frontera sur de México, Centroamérica y el Caribe a través de la generación de conocimientos, la formación de recursos humanos y la vinculación desde las ciencias sociales y naturales.",
+            "visión": "Ser un Centro Público de Investigación líder en la formación de investigadores de alto nivel y generación de conocimientos científicos y tecnológicos de frontera, con un creciente impacto nacional e internacional que contribuya en forma visible y relevante a la solución sustentable de problemas de la región sureste del país, ampliando nuestra presencia en la sociedad y en la cultura contemporánea.",
+            "titular": "Dr. Antonio Saldívar Moreno",
+            "fecha_designación_titular": "2015-09-15",
+            "grado_académico_titular": "Doctor en Comunicación, Cultura y Educación",
+            "especialidad_titular": "Metodologías Participativas, Educación Intercultural",
+            "origen": "México",
+            "fecha_creación": "1994-08-27",
+            "historia_establecimiento": "El Colegio de la Frontera Sur (ECOSUR) se fundó en 1994 como una institución dedicada a la investigación científica y tecnológica para promover el desarrollo sustentable en la región sureste de México.",
+            "contexto_histórico": "ECOSUR se estableció en respuesta a la necesidad de abordar problemas ambientales, sociales y económicos en la frontera sur de México, integrando conocimientos de las ciencias sociales y naturales",
+            "tipo_entidad_legal": "Organismo descentralizado, con personalidad jurídica y patrimonio propio, con autonomía de decisión técnica, operativa y administrativa",
+            "figura_jurídica": "Organismo Público Descentralizado",
+            "marco_normativo": [
+                 {
+                    "ley_o_instrumento_jurídico": "BASES GENERALES PARA LA PROFESIONALIZACIÓN DEL PERSONAL DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE LAS ENTIDADES PARAESTATALES"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS EN MATERIA DE AUSTERIDAD REPUBLICANA DE LAADMINISTRACIÓN PÚBLICA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS PARA LA DESIGNACIÓN, SUPLENCIA E INTERINATO DE LAS PERSONAS TITULARES DE LAS DIRECCIONES GENERALES O EQUIVALENTES DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE PLANEACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2024"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DEL SISTEMA NACIONAL DE CENTROS PÚBLICOS DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2018,
+                    "total": 381571412,
+                    "recursos_fiscales": 343563104,
+                    "recursos_propios": 38008308
+                },
+                {
+                    "año": 2019,
+                    "total": 381778465,
+                    "recursos_fiscales": 349768473,
+                    "recursos_propios": 32009992
+                },
+                {
+                    "año": 2020,
+                    "total": 352461839,
+                    "recursos_fiscales": 339152660,
+                    "recursos_propios": 13309179
+                },
+                {
+                    "año": 2021,
+                    "total": 391256189,
+                    "recursos_fiscales": 366812626,
+                    "recursos_propios": 24443563
+                },
+                {
+                    "año": 2022,
+                    "total": 402793125,
+                    "recursos_fiscales": 387360504,
+                    "recursos_propios": 15432621
+                },
+                {
+                    "año": 2023,
+                    "total": 429331959,
+                    "recursos_fiscales": 412411138,
+                    "recursos_propios": 16920821
+                },
+                {
+                    "año": 2024,
+                    "total": 471662042,
+                    "recursos_fiscales": 430471952,
+                    "recursos_propios": 41190090
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "DOCTORADO EN CIENCIAS EN ECOLOGÍA Y DESARROLLO SUSTENTABLE",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "ECOLOGÍA"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN AGROECOLOGÍA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "AGRONOMÍA",
+                            "disciplina_snii": "MANEJO SUSTENTABLE DE AGROECOSISTEMAS"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS EN RECURSOS NATURALES Y DESARROLLO RURAL",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "CIENCIAS POLÍTICAS",
+                            "disciplina_snii": "DESARROLLO RURAL REGIONAL"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN ECOLOGÍA INTERNACIONAL",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "CIENCIAS AMBIENTALES",
+                            "disciplina_snii": "GESTIÓN AMBIENTAL PARA LA SUSTENTABILIDAD"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Unidad San Cristóbal",
+                    "descripción_unidad": "Unidad enfocada en la investigación de recursos naturales y el desarrollo sustentable en la región sureste de México.",
+                    "dirección_postal": "Carretera Panamericana y Periférico Sur s/n, Barrio de María Auxiliadora, San Cristóbal de las Casas, Chiapas, México.",
+                    "latitud": 16.705403281134796,
+                    "longitud": -92.61474442196777,
+                    "departamentos": [
+                        {
+                            "departamento": "Departamento de Agricultura, Sociedad y Ambiente",
+                            "descripción_departamento": "Investigación en sistemas agrícolas sustentables y su impacto en la sociedad y el ambiente.",
+                            "áreas": [
+                                {
+                                    "área": "Agroecología",
+                                    "descripción_del_área": "Estudio de sistemas agrícolas que buscan la sostenibilidad ecológica y económica.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Manejo Sustentable de Agroecosistemas",
+                                            "descripción": "Desarrollo de prácticas agrícolas sostenibles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias",
+                                                    "disciplina_snii": "Agroecología"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -92.61474442196777,
+                        16.705403281134796
+                    ],
+                    "estado": "Chiapas",
+                    "municipio": "San Cristóbal de las Casas",
+                    "ciudad": "San Cristóbal",
+                    "código_postal": "29200"
+                },
+                {
+                    "nombre_unidad": "Unidad Chetumal",
+                    "descripción_unidad": "Unidad enfocada en el estudio y conservación de la biodiversidad, así como en el manejo de los recursos naturales.",
+                    "dirección_postal": "Av. Centenario km 5.5, CP 77014, Chetumal, Quintana Roo. AP 424",
+                    "latitud": 18.545165287992084,
+                    "longitud": -88.2634475723425,
+                    "departamentos": [
+                        {
+                            "departamento": "Departamento de Conservación de la Biodiversidad",
+                            "descripción_departamento": "Investigación en la conservación de la biodiversidad y manejo de ecosistemas.",
+                            "áreas": [
+                                {
+                                    "área": "Ecología y Conservación",
+                                    "descripción_del_área": "Estudio de la ecología y conservación de especies y ecosistemas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Conservación de Ecosistemas",
+                                            "descripción": "Estrategias para la conservación y manejo de ecosistemas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ecología",
+                                                    "disciplina_snii": "Conservación"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -88.2634475723425,
+                        18.545165287992084
+                    ],
+                    "estado": "Quintana Roo",
+                    "municipio": "Othón P. Blanco",
+                    "ciudad": "Chetumal",
+                    "código_postal": "77014"
+                },
+                {
+                    "nombre_unidad": "Unidad Tapachula",
+                    "descripción_unidad": "Unidad dedicada a la investigación en agroecosistemas y el desarrollo rural.",
+                    "dirección_postal": "Carretera Antiguo Aeropuerto km 2.5, CP 30700, Tapachula, Chiapas. AP 36",
+                    "latitud": 14.88715362863258,
+                    "longitud": -92.28668947691683,
+                    "departamentos": [
+                        {
+                            "departamento": "Departamento de Agroecología",
+                            "descripción_departamento": "Investigación en la producción sostenible y resiliente de agroecosistemas.",
+                            "áreas": [
+                                {
+                                    "área": "Agroecología",
+                                    "descripción_del_área": "Promoción de prácticas agrícolas sostenibles.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Manejo de Agroecosistemas",
+                                            "descripción": "Desarrollo de sistemas agrícolas sostenibles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias",
+                                                    "disciplina_snii": "Agroecología"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -92.28668947691683,
+                        14.88715362863258
+                    ],
+                    "estado": "Chiapas",
+                    "municipio": "Tapachula",
+                    "ciudad": "Tapachula",
+                    "código_postal": "30700"
+                },
+                {
+                    "nombre_unidad": "Unidad Villahermosa",
+                    "descripción_unidad": "Unidad dedicada a la investigación y educación ambiental en la región sureste de México.",
+                    "dirección_postal": "Carretera a Reforma Km. 15.5 s/n Ra, Guineo 2da. Sección, Municipio del Centro, Tabasco, C.P. 86280.",
+                    "latitud":  17.91047408786666,
+                    "longitud": -93.03673607501993,
+                    "departamentos": [
+                        {
+                            "departamento": "Departamento de Educación Ambiental",
+                            "descripción_departamento": "Investigación y desarrollo de programas de educación ambiental.",
+                            "áreas": [
+                                {
+                                    "área": "Educación Ambiental",
+                                    "descripción_del_área": "Promoción de la educación ambiental para la sostenibilidad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Educación para la Sostenibilidad",
+                                            "descripción": "Desarrollo de programas educativos para promover la sostenibilidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "Educación",
+                                                    "disciplina_snii": "Educación Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -93.03673607501993,
+                        17.91047408786666
+                    ],
+                    "estado": "Tabasco",
+                    "municipio": "Centro",
+                    "ciudad": "Villahermosa",
+                    "código_postal": "86280"
+                },
+                {
+                    "nombre_unidad": "Unidad Campeche",
+                    "descripción_unidad": "",
+                    "dirección_postal": "Av. Rancho Polígono 2-A, Col. Ciudad Industrial, Lerma Campeche, Campeche C.P. 24500",
+                    "latitud": 19.786139281285347,
+                    "longitud": -90.6058782308069,
+                     "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ],
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -90.6058782308069,
+                        19.786139281285347
+                    ],
+                    "estado": "Campeche",
+                    "municipio": "Campeche",
+                    "ciudad": "Lerma",
+                    "código_postal": "24500"
+                },
+                {
+                    "nombre_unidad": "Oficina de Enlace Mérida",
+                    "descripción_unidad": "",
+                    "dirección_postal": "Parque Científico y Tecnológico de Yucatán: Km. 5.5 Carr. Sierra Papacal - Chuburna Pto. Tablaje 31257 Sierra Papacal, 97302 Mérida, Yuc.",
+                    "latitud": 21.131888471723922,
+                    "longitud": -89.78121338317483,
+                     "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ],
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -89.78121338317483,
+                         21.131888471723922
+                    ],
+                    "estado": "Yucatán",
+                    "municipio": "Mérida",
+                    "ciudad": "Municipio de Mérida",
+                    "código_postal": "97302"
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/Ecosur",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/ecosurmx",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/@ECOSURMX",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://twitter.com/ecosurmx",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "LinkedIn",
+                    "identificador": "https://mx.linkedin.com/school/el-colegio-de-la-frontera-sur-ecosur-/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Spotify",
+                    "identificador": "https://open.spotify.com/show/0BOr0ZnMu5oYpOFMoydkrE",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ],
+            "importancia_diagnóstico": "",
+            "fuentes_financiamiento": [
+                {
+                    "fecha": "1900-01-01",
+                    "vigencia": "",
+                    "descripción": "",
+                    "monto_financiamiento": 0,
+                    "documentos": [
+                        {
+                            "fecha": "1900-01-01",
+                            "descripción": "",
+                            "liga": ""
+                        }
+                    ]
+                }
+            ],
+            "síntesis_hallazgos": [
+                {
+                    "hallazgo": "",
+                    "fecha_inicio": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "reporta": "",
+                    "relevancia": "mediana",
+                    "notas": []
+                }
+            ],
+            "propuestas_fortalecimiento": [
+                {
+                    "propuesta": "",
+                    "fecha_inicio": "1900-01-01",
+                    "responsables": [],
+                    "relevancia": "alta",
+                    "avances": [
+                        {
+                            "fecha": "1900-01-01",
+                            "avance": ""
+                        }
+                    ]
+                }
+            ],
+            "sindicatos": [
+                {
+                    "sindicato": "",
+                    "tipo_agremiados": "Desconocido",
+                    "número_agremiados": [
+                        {
+                            "año": 0,
+                            "agremiados": 0
+                        }
+                    ]
+                }
+            ],
+            "coordinates": [
+                -92.61474442196777,
+                 16.705403281134796
+            ]
+        }
+    ]
+}

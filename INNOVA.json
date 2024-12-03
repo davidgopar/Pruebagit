@@ -1,0 +1,1616 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Innovación Soberana Para el Bienestar",
+            "siglas_cpi": "InnovaBienestar",
+            "descripción_breve": "Empresa del Estado enfocada en escalar, consolidar y comercializar tecnologías desarrolladas con el apoyo del gobierno de México, a través del Conahcyt, que redunden en el bienestar y la calidad de vida de la población mexicana",
+            "descripción": "InnovaBienestar de México, SAPI de CV comenzó su trayectoria en 1975 bajo el nombre Instituto Mexicano de Investigaciones Siderúrgicas (IMIS), enfocado en el estudio y aprovechamiento del hierro y el acero. En 1991, se transformó en la Corporación Mexicana de Investigación en Materiales SA de CV (COMIMSA) por decreto presidencial, ampliando sus actividades a nuevas áreas de investigación, desarrollo, capacitación y análisis de calidad en materiales. Con una visión de mejora continua, InnovaBienestar se ha diversificado, integrando innovaciones tecnológicas y servicios que impactan positivamente en la sociedad mexicana. A lo largo de su historia, ha contribuido al avance de la ingeniería y la tecnología en el país, y ahora, bajo su nueva identidad jurídica, se propone aportar aún más valor a México",
+            "misión": "Coordinar la transferencia, el escalamiento industrial y la comercialización exitosa de innovaciones soberanas para el bienestar, las cuales deberán brindar soluciones tecnológicas a los retos nacionales prioritarios y contribuir a la soberanía nacional del pueblo de México",
+            "visión": "Ser la Entidad Pública líder reconocida por introducir de manera eficaz y eficiente soluciones tecnológicas que aseguren beneficios para el pueblo de México y que generen bienestar social y soberanía nacional",
+            "titular": "Dr. Alejandro Tuirán Gutiérrez",
+            "fecha_designación_titular": "2024-04-22",
+            "grado_académico_titular": "Doctor",
+            "especialidad_titular": "Políticas públicas, administración y desarrollo económico",
+            "origen": "Creada en noviembre de 2023, InnovaBienestar tiene sus raíces en el Instituto Mexicano de Investigaciones Siderúrgicas (IMIS), fundado en 1975, cuya misión original era explorar y optimizar el uso del hierro y el acero en México.",
+            "fecha_creación": "2023-11-13",
+            "historia_establecimiento": "InnovaBienestar comenzó como el Instituto Mexicano de Investigaciones Siderúrgicas (IMIS) el 13 de mayo de 1975, centrado en investigar y aprovechar los usos del hierro y el acero. En 1991, se transformó en la Corporación Mexicana de Investigación en Materiales S.A. de C.V. (COMIMSA), ampliando sus actividades a nuevas áreas de investigación, educación y análisis de calidad de materiales. Su cambio más reciente fue en noviembre de 2023, convirtiéndose en InnovaBienestar de México, SAPI de CV",
+            "contexto_histórico": "Durante casi cinco décadas, InnovaBienestar ha adaptado su enfoque para satisfacer las necesidades tecnológicas y sociales de México. Desde sus comienzos en la siderurgia, expandió sus investigaciones y servicios para abarcar otras áreas clave, contribuyendo a proyectos de ingeniería, soldadura y electrónica en el país",
+            "tipo_entidad_legal": "Entidad paraestatal con carácter de empresa de participación estatal mayoritaria",
+            "figura_jurídica": "Sociedad Anónima con Participación Mayoritaria del Estado",
+            "marco_normativo": [
+                 {
+                    "ley_o_instrumento_jurídico": "BASES GENERALES PARA LA PROFESIONALIZACIÓN DEL PERSONAL DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE LAS ENTIDADES PARAESTATALES"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS EN MATERIA DE AUSTERIDAD REPUBLICANA DE LAADMINISTRACIÓN PÚBLICA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS PARA LA DESIGNACIÓN, SUPLENCIA E INTERINATO DE LAS PERSONAS TITULARES DE LAS DIRECCIONES GENERALES O EQUIVALENTES DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE PLANEACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2024"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DEL SISTEMA NACIONAL DE CENTROS PÚBLICOS DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY GENERAL DE SOCIEDADES MERCANTILES"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2018,
+                    "total": 420494021,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 420494021
+                },
+                {
+                    "año": 2019,
+                    "total": 181565184,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 181565184
+                },
+                {
+                    "año": 2020,
+                    "total": 215498155,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 215498155
+                },
+                {
+                    "año": 2021,
+                    "total": 457408996,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 457408996
+                },
+                {
+                    "año": 2022,
+                    "total": 248767995,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 248767995
+                },
+                {
+                    "año": 2023,
+                    "total": 132379337,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 132379337
+                },
+                {
+                    "año": 2024,
+                    "total": 1186689907,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 1186689907
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "MAESTRÍA EN TECNOLOGÍA DE LA SOLDADURA INDUSTRIAL",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "TECNOLOGÍA DE LA SOLDADURA INDUSTRIAL"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Saltillo, Coahuila / Corporativo",
+                    "descripción_unidad": "Esta es la sede corporativa de COMIMSA. Aquí se llevan a cabo proyectos de investigación, desarrollo tecnológico y servicios de ingeniería",
+                    "dirección_postal": "C. Ciencia y Tecnología 790, Saltillo 400, 25290 Saltillo, Coah.",
+                    "latitud": 25.448854950110274,
+                    "longitud": -100.96924853112039,
+                    "departamentos": [
+                        {
+                            "departamento": "Ingeniería de Proyectos",
+                            "descripción_departamento": "Este departamento se enfoca en la planificación, diseño y gestión de proyectos de ingeniería, abarcando todas las fases del ciclo de vida del proyecto desde la concepción hasta la finalización.",
+                            "áreas": [
+                                {
+                                    "área": "Ingeniería Básica, Ingeniería de Detalle y Supervisión",
+                                    "descripción_del_área": "Incluye el diseño preliminar y análisis conceptual (Ingeniería Básica), desarrollo completo de planos y especificaciones técnicas (Ingeniería de Detalle), y monitoreo y control de la ejecución del proyecto (Supervisión) para asegurar calidad y cumplimiento.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ingeniería de procesos",
+                                            "descripción": "Diseño y optimización de procesos industriales y de manufactura.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Industrial"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería de control e instrumentos",
+                                            "descripción": "Desarrollo de sistemas de control y medición para procesos industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Automatización y Control"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería eléctrica",
+                                            "descripción": "Diseño y mantenimiento de sistemas eléctricos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Eléctrica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería mecánica (Tubería y recipientes)",
+                                            "descripción": "Diseño y análisis de sistemas de tuberías y recipientes a presión.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería de planificación - civil",
+                                            "descripción": "Planificación y diseño de infraestructuras y obras civiles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Civil"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnología BIM",
+                                            "descripción": "Uso de Modelado de Información de Construcción (BIM) para proyectos de construcción.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Industrial"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        },
+                        {
+                            "departamento": "Integridad Mecánica",
+                            "descripción_departamento": "Se enfoca en garantizar la seguridad y eficiencia de equipos y estructuras industriales.",
+                            "áreas": [
+                                {
+                                    "área": "Plantas de Proceso",
+                                    "descripción_del_área": "Se dedica al análisis y optimización de sistemas y equipos en plantas industriales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evaluación de la integridad mecánica en recipientes sujetos a presión, tanques atmosféricos y estructuras metálicas",
+                                            "descripción": "Análisis de la resistencia y seguridad de recipientes, tanques y estructuras metálicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ultrasonido ondas guiadas en tuberías de proceso",
+                                            "descripción": "Uso de ultrasonido para inspeccionar y detectar fallos en tuberías de proceso.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación mediante la aptitud para el servicio",
+                                            "descripción": "Análisis de equipos y estructuras para determinar su capacidad de seguir operando de manera segura.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de estructura de equipo de perforación",
+                                            "descripción": "Inspección y análisis de la integridad estructural de equipos de perforación.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de vibraciones y termografía infrarroja",
+                                            "descripción": "Estudio de vibraciones y uso de imágenes térmicas para identificar problemas en equipos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Tuberías",
+                                    "descripción_del_área": "Se especializa en el diseño, evaluación y mantenimiento de sistemas de tuberías industriales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Gestión en integridad de ductos",
+                                            "descripción": "Administración de programas y técnicas para asegurar la integridad de ductos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de integridad de ductos",
+                                            "descripción": "Inspección y análisis para verificar la seguridad y eficiencia de ductos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de inhibidores de corrosión y corrosión interna",
+                                            "descripción": "Análisis de la efectividad de inhibidores y estudio de la corrosión dentro de ductos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ultrasonido ondas guiadas en tubería enterrada",
+                                            "descripción": "Uso de ultrasonido para detectar fallos en tuberías subterráneas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación de la integridad mecánica en instalaciones superficiales",
+                                            "descripción": "Inspección y análisis de la resistencia y seguridad de instalaciones sobre la superficie.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Mecánica"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        },
+                        {
+                            "departamento": "Ingeniería de Manufactura",
+                            "descripción_departamento": "Se centra en el diseño, desarrollo y mejora de procesos y productos de manufactura.",
+                            "áreas": [
+                                {
+                                    "área": "Diseño e Ingeniería",
+                                    "descripción_del_área": "Se dedica al desarrollo y optimización de diseños y sistemas de ingeniería.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Desarrollo de ingeniería inversa, diseño y fabricación de componentes para la rehabilitación y construcción de equipos y sistemas.",
+                                            "descripción": "Focaliza en la creación y producción de componentes mediante ingeniería inversa para la reparación y construcción de equipos y sistemas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Industrial y Manufactura"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Reacondicionamiento de Turbinas de Gas",
+                                    "descripción_del_área": "Se refiere al proceso de restauración y mejora de componentes de turbinas de gas, como rotores, extractores, cámaras de combustión, paletas, colectores de gas, entre otros.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Fabricación y rehabilitación de componentes de turbinas de gas, tales como rotores, extractores, cámaras de combustión, paletas, colectores de gas, etc.",
+                                            "descripción": "se centra en la producción y restauración de piezas esenciales para turbinas de gas, como rotores, extractores, cámaras de combustión, paletas y colectores de gas, con el objetivo de mantener su funcionamiento óptimo y seguro.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Industrial y Manufactura"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Mantenimiento a Equipos Estáticos y Dinámicos",
+                                    "descripción_del_área": "Consiste en la realización de tareas de mantenimiento en equipos estáticos y dinámicos, tales como bombas verticales, válvulas de cuatro vías, válvulas tipo bola y convertidores rotativos. Esto implica la integración de componentes fabricados y/o rehabilitados.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Mantenimiento de equipos como bombas verticales, válvulas de cuatro vías, válvulas tipo bola y convertidores rotativos, integrando componentes fabricados y/o rehabilitados.",
+                                            "descripción": "El mantenimiento de equipos abarca la conservación y reparación de diversos dispositivos industriales, como bombas verticales, válvulas de cuatro vías, válvulas tipo bola y convertidores rotativos, incorporando componentes nuevos o restaurados para asegurar su correcto funcionamiento.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Industrial y Manufactura"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Reacondicionamiento de Equipos de Perforación",
+                                    "descripción_del_área": "Se refiere al proceso de fabricación y restauración de componentes utilizados en equipos de perforación, tales como módulos de bombas de lodos, cinturones de freno para tornos, poleas, ganchos y cabrestantes, entre otros.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Fabricación y rehabilitación de componentes tales como módulos de bombas de lodos, cinturones de freno para tornos, poleas, ganchos y cabrestantes, etc.",
+                                            "descripción": "La línea se enfoca en la producción y restauración de elementos esenciales como módulos de bombas de lodos, cinturones de freno para tornos, poleas, ganchos y cabrestantes, entre otros, para diversos fines industriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Industrial y Manufactura"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        },
+                        {
+                            "departamento": "Ingeniería Ambiental",
+                            "descripción_departamento": "Aplicación de principios de ingeniería para abordar y resolver problemas ambientales y de sostenibilidad.",
+                            "áreas": [
+                                {
+                                    "área": "Investigación y desarrollo tecnológico en ambientales",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Desarrollo de nuevas tecnologías para: aire, agua y tratamientos de suelo",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Investigación en recuperación de petróleo por métodos microbianos",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Geociencias",
+                                    "descripción_del_área": "Comprende el estudio y la aplicación de conceptos geológicos, hidrogeológicos y geotécnicos para comprender y gestionar los recursos naturales, evaluar riesgos geológicos, y diseñar estructuras y obras civiles. Incluye técnicas como la prospección geofísica y el uso de sistemas de información geográfica (SIG) para el análisis espacial y la toma de decisiones.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evaluación de riesgos geológicos",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluación hidrogeológica",
+                                            "descripción": "Estudio de la distribución, movimiento y calidad de las aguas subterráneas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Prospección Geofísica",
+                                            "descripción": "Uso de técnicas geofísicas para exploración y caracterización del subsuelo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ingeniería geotécnica",
+                                            "descripción": "Aplicación de principios geológicos y de ingeniería para el diseño y construcción de estructuras.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas de información geográfica (SIG)",
+                                            "descripción": "Herramientas para la captura, almacenamiento, análisis y visualización de datos espaciales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "CIENCIAS DE LA TIERRA Y DEL ESPACIO",
+                                                    "disciplina_snii": "Geología"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        },
+                        {
+                            "departamento": "Ingeniería de confiabilidad",
+                            "descripción_departamento": "Análisis de riesgos y evaluaciones para plantas químicas con sustancias peligrosas. Enfoque en la implementación de Sistemas de Gestión de Procesos de Seguridad para mejorar fiabilidad, disponibilidad y seguridad de activos.",
+                            "áreas": [
+                                {
+                                    "área": "Estrategias de Confiabilidad",
+                                    "descripción_del_área": "Desarrollo e implementación de enfoques y metodologías para mejorar la confiabilidad y disponibilidad de sistemas y activos industriales, con el objetivo de optimizar el rendimiento y minimizar los riesgos operativos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Inspección Basada en Riesgo (API‐580/581)",
+                                            "descripción": "Método para evaluar y priorizar la inspección de equipos basado en el análisis de riesgos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mantenimiento Centrado en Confiabilidad",
+                                            "descripción": "Estrategia de mantenimiento que prioriza las actividades según su impacto en la confiabilidad de los equipos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis Cuantitativo de Riesgos",
+                                            "descripción": "Evaluación de riesgos utilizando técnicas cuantitativas para una comprensión detallada de los posibles impactos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de Criticidad",
+                                            "descripción": "Identificación y priorización de activos críticos en función de su importancia para la operación.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Seguridad funcional",
+                                            "descripción": "Enfoque para garantizar que los sistemas y equipos cumplan con los requisitos de seguridad establecidos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Métodos Estadísticos",
+                                            "descripción": "Utilización de técnicas estadísticas para analizar datos y extraer conclusiones sobre la confiabilidad y riesgos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de costo de ciclos de vida",
+                                            "descripción": "Evaluación de los costos asociados con la vida útil de un activo, incluyendo adquisición, mantenimiento y desmantelamiento.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Gestión de Activos",
+                                            "descripción": "Implementación de estrategias para optimizar el rendimiento y valor de los activos durante su ciclo de vida.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                                                    "disciplina_snii": "Ingeniería Química"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -100.96924853112039,
+                        25.448854950110274
+                    ],
+                    "estado": "Coahuila",
+                    "municipio": "Saltillo",
+                    "ciudad": "Saltillo",
+                    "código_postal": "25290"
+                },
+                {
+                    "nombre_unidad": "Oficina Regional Ciudad de México",
+                    "descripción_unidad": "La oficina en CDMX se enfoca en actividades relacionadas con la investigación y los servicios tecnológicos",
+                    "dirección_postal": "Calz Melchor Ocampo 193-Torre 1, piso 13, Verónica Anzúres, Miguel Hidalgo, 11300 Ciudad de México, CDMX, México",
+                    "latitud": 19.435478762157036,
+                    "longitud": -99.17109672883593,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -99.17110745767164,
+                        19.435514173306615
+                    ],
+                    "estado": "Ciudad de México",
+                    "municipio": "Miguel Hidalgo",
+                    "ciudad": "Ciudad de México",
+                    "código_postal": "11300"
+                },
+                {
+                    "nombre_unidad": "Oficina Regional Cunduacán",
+                    "descripción_unidad": "Esta sede también contribuye a los servicios y proyectos de COMIMSA, especialmente en el área de materiales y tecnología",
+                    "dirección_postal": "Lote 13 Manzana 3 Calle Circuito Tabasco Carretera Reforma, Reforma - Dos Bocas 17+920, 86690 Tab., Mexico",
+                    "latitud": 18.123953666352577,
+                    "longitud": -93.17975916931344,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -93.17975916931344,
+                        18.123953666352577
+                    ],
+                    "estado": "Tabasco",
+                    "municipio": "Cunduacán",
+                    "ciudad": "Cunduacán",
+                    "código_postal": "86690"
+                },
+                {
+                    "nombre_unidad": "Oficina Regional Ciudad del Carmen",
+                    "descripción_unidad": "La oficina en Ciudad del Carmen se dedica a actividades similares, brindando servicios tecnológicos y participando en proyectos de investigación y desarrollo",
+                    "dirección_postal": "C. 33 113, Burócrata, 24160 Cdad. del Carmen, Camp., Mexico",
+                    "latitud": 18.648453239906008,
+                    "longitud": -91.825461,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -91.825461,
+                        18.648453239906008
+                    ],
+                    "estado": "Campeche",
+                    "municipio": "Carmen",
+                    "ciudad": "Ciudad del Carmen",
+                    "código_postal": "24160"
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/Innovabienestardemexico",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/@innovabienestar",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/innovabienestardemexico",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://twitter.com/innovabienestar",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ],
+            "importancia_diagnóstico": "",
+            "fuentes_financiamiento": [
+                {
+                    "fecha": "1900-01-01",
+                    "vigencia": "",
+                    "descripción": "",
+                    "monto_financiamiento": 0,
+                    "documentos": [
+                        {
+                            "fecha": "1900-01-01",
+                            "descripción": "",
+                            "liga": ""
+                        }
+                    ]
+                }
+            ],
+            "síntesis_hallazgos": [
+                {
+                    "hallazgo": "",
+                    "fecha_inicio": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "reporta": "",
+                    "relevancia": "mediana",
+                    "notas": []
+                }
+            ],
+            "propuestas_fortalecimiento": [
+                {
+                    "propuesta": "",
+                    "fecha_inicio": "1900-01-01",
+                    "responsables": [],
+                    "relevancia": "alta",
+                    "avances": [
+                        {
+                            "fecha": "1900-01-01",
+                            "avance": ""
+                        }
+                    ]
+                }
+            ],
+            "sindicatos": [
+                {
+                    "sindicato": "",
+                    "tipo_agremiados": "Desconocido",
+                    "número_agremiados": [
+                        {
+                            "año": 0,
+                            "agremiados": 0
+                        }
+                    ]
+                }
+            ],
+            "coordinates": [
+                -99.1711919306853,
+                19.437422368629935
+            ]
+        }
+    ]
+}

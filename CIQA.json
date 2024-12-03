@@ -1,0 +1,1258 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigacion en quimica aplicada",
+            "siglas_cpi": "CIQA",
+            "descripción_breve": "Somos un centro público de investigación del Sistema CONACYT ubicado en la ciudad de Saltillo, Coahuila, y contamos con una unidad en la ciudad de Monterrey, Nuevo León.",
+            "descripción": "Especializado en química, diseño y transformación de polímeros, materiales avanzados; biociencias, agrotecnología, medio ambiente, recursos naturales y disciplinas afines, realizamos:Investigación científica básica y aplicadaDesarrollo experimentalInnovación tecnológicaAsistencia técnicaPruebas especializadas de caracterización química, ensayos fisicomecánicos e instrumentación analíticaFormación y entrenamiento especializado de capital humano de alto nivelDifusión y divulgación con la sociedad",
+            "misión": " Realizar actividades de investigación científica básica y aplicada, el desarrollo experimental, la innovación tecnológica y la formación especializada de capital humano de alto nivel en los campos de la química, polímeros, materiales, biotecnología, medio ambiente, recursos naturales y disciplinas afines, así como difundir los resultados de sus investigaciones.",
+            "visión": "Ser líder nacional en el área de polímeros y nanomateriales, con reconocimiento internacional en investigación, desarrollo tecnológico, innovación y formación de capital humano.Ser un socio tecnológico de alto valor para el sector industrial.Ser una institución con suficiencia económica.Contribuir de manera relevante a la solución de problemas nacionales, regionales y locales en nuestras áreas de competencia.",
+            "titular": "Julieta Torres González",
+            "fecha_designación_titular": "2023-01-01",
+            "grado_académico_titular": "Doctor",
+            "especialidad_titular": "Ciencia e Ingeniería de Materiales",
+            "origen": "La gestación del CIQA se dio en el año de 1972 cuando la Comisión Nacional de Zonas Áridas, el Consejo Nacional de Ciencia y Tecnología y la Facultad de Química de la Universidad Nacional Autónoma de México iniciaron un proyecto buscando impulsar el desarrollo de las zonas áridas de México. El uso del hule y la industria del plástico estaban en pleno auge y crecimiento. El interés mundial estaba vuelto hacia él por sus múltiples beneficios y economía, pero comenzaba ya la preocupación energética y por el cuidado del medio ambiente. En Coahuila se instalaba la primera planta automotriz: General Motors.",
+            "fecha_creación": "1972-01-01",
+            "historia_establecimiento": "El Dr. Enrique Campos López fue el primer Director General hasta el año de 1983, seguido del Dr. Lothar Krause Sennewald hasta 1992, el Dr. Luis Francisco Ramos de Valle hasta el año 2002 y el Dr. Juan Méndez Nonell hasta el 2012. Actualmente la institución es dirigida por el Dr. Oliverio Santiago Rodríguez Fernandez. Durante los diferentes periodos se enfrentaron diferentes retos y oportunidades que fueron marcando a la entidad como la especialización de sus temas de investigación y servicios, la apertura y cierre de nuevas áreas, la re-categorización y re-organización del personal, el cambio de paradigma para dar prioridad a la comercialización y, en los años más recientes, la transferencia de tecnología y la incorporación de la divulgación en sus actividades. Durante todos esos años, la complejidad de su organización fue marcando a su administración también.",
+            "contexto_histórico": "La gestación del CIQA se dio en el año de 1972 cuando la Comisión Nacional de Zonas Áridas, el Consejo Nacional de Ciencia y Tecnología y la Facultad de Química de la Universidad Nacional Autónoma de México iniciaron un proyecto buscando impulsar el desarrollo de las zonas áridas de México. El uso del hule y la industria del plástico estaban en pleno auge y crecimiento. El interés mundial estaba vuelto hacia él por sus múltiples beneficios y economía, pero comenzaba ya la preocupación energética y por el cuidado del medio ambiente. En Coahuila se instalaba la primera planta automotriz: General Motors.",
+            "tipo_entidad_legal": "Organismo descentralizado, con personalidad jurídica y patrimonio propio, con autonomía de decisión técnica, operativa y administrativa",
+            "figura_jurídica": "Organismo Público Descentralizado",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "BASES GENERALES PARA LA PROFESIONALIZACIÓN DEL PERSONAL DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE LAS ENTIDADES PARAESTATALES"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS EN MATERIA DE AUSTERIDAD REPUBLICANA DE LAADMINISTRACIÓN PÚBLICA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS PARA LA DESIGNACIÓN, SUPLENCIA E INTERINATO DE LAS PERSONAS TITULARES DE LAS DIRECCIONES GENERALES O EQUIVALENTES DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE PLANEACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2024"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DEL SISTEMA NACIONAL DE CENTROS PÚBLICOS DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2018,
+                    "total": 213546566,
+                    "recursos_fiscales": 175760390,
+                    "recursos_propios": 37786176
+                },
+                {
+                    "año": 2019,
+                    "total": 203566504,
+                    "recursos_fiscales": 169791446,
+                    "recursos_propios": 33775058
+                },
+                {
+                    "año": 2020,
+                    "total": 202932770,
+                    "recursos_fiscales": 182939561,
+                    "recursos_propios": 19993209
+                },
+                {
+                    "año": 2021,
+                    "total": 223215921,
+                    "recursos_fiscales": 197031799,
+                    "recursos_propios": 26184122
+                },
+                {
+                    "año": 2022,
+                    "total": 226019161,
+                    "recursos_fiscales": 203319133,
+                    "recursos_propios": 22700028
+                },
+                {
+                    "año": 2023,
+                    "total": 251773474,
+                    "recursos_fiscales": 225699155,
+                    "recursos_propios": 26074319
+                },
+                {
+                    "año": 2024,
+                    "total": 232106811,
+                    "recursos_fiscales": 232106811,
+                    "recursos_propios": 0
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "DOCTORADO EN TECNOLOGÍA DE POLÍMEROS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "CIENCIA Y TECNOLOGÍA DE MATERIALES"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "ESPECIALIZACIÓN EN QUÍMICA APLICADA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "CIENCIA Y TECNOLOGÍA DE MATERIALES"
+                        }
+                    ],
+                    "nivel": "especialidad",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS EN AGROPLASTICULTURA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "AGRONOMÍA",
+                            "disciplina_snii": "INGENIERÍA AGRÍCOLA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN TECNOLOGÍA DE POLÍMEROS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "CIENCIA Y TECNOLOGÍA DE MATERIALES"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "CIQA",
+                    "descripción_unidad": "Somos un centro público de investigación del Sistema CONACYT ubicado en la ciudad de Saltillo, Coahuila, y contamos con una unidad en la ciudad de Monterrey, Nuevo León.",
+                    "dirección_postal": "Enrique Reyna H. 140, San José de los Cerritos, 25294 Saltillo, Coah.",
+                    "latitud": 25.459852760508685,
+                    "longitud": -100.9678527693147,
+                    "departamentos": [
+                        {
+                            "departamento": "Investigacion y desarrollo.",
+                            "descripción_departamento": "La investigación que realiza el CIQA se enfoca al desarrollo de nuevos y mejores materiales poliméricos para las diferentes aplicaciones que puede tener un plástico.",
+                            "áreas": [
+                                {
+                                    "área": "Química Macromolecular y Nanomateriales",
+                                    "descripción_del_área": "Se conjunta aquí los trabajos relativos a la aplicación de las técnicas de polimerización convencionales, modificadas o emergentes para la obtención de materiales novedosos o con propiedades mejoradas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Catalizadores Metaloceno",
+                                            "descripción": "Proyectos de preparación y aplicación de catalizadores tipo metalocenos para polimerizaciones por coordinación orientados a la obtención de materiales con propiedades mejoradas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería de materiales",
+                                                    "disciplina_snii": "Materiales y procesos de fabricación"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Polimerización Controlada (viviente)",
+                                            "descripción": "Copolímeros en bloque de composición y peso molecular controlados e índices de polidispersidad estrechos, mediante técnicas emergentes de polimerización por radicales libres.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería química",
+                                                    "disciplina_snii": "Ingeniería de reacciones químicas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modificación de Polímeros",
+                                            "descripción": "Síntesis orgánica de grupos funcionales, síntesis de monómeros y oligómeros funcionales, funcionalización de monómeros y polímeros.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería de materiales",
+                                                    "disciplina_snii": "Materiales y procesos de fabricación"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Procesos de Polimerización",
+                                    "descripción_del_área": "Esta área se enfoca en la obtención y evaluación de polímeros bio-basados, polimerización en heterofase, modelado y escalamiento de procesos químicos y procesos de reciclado químico de plásticos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ingeniería de Obtención de Polímeros Bio-Basados",
+                                            "descripción": "Obtención y evaluación de polímeros bio-basados partiendo de monómeros de fuente renovable.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería química",
+                                                    "disciplina_snii": "Ingeniería de reacciones químicas"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Polimerización en Heterofase: Aplicación en Medicina",
+                                            "descripción": "Cargado de distintos fármacos en partículas poliméricas obtenidas a partir de procesos de polimerización heterogéneos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Química",
+                                                    "disciplina_snii": "Química macromolecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Modelado y Escalamiento de Procesos Químicos",
+                                            "descripción": "Modelamiento matemático de procesos de polimerización en cadena y otros procesos químicos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería química",
+                                                    "disciplina_snii": "Ingeniería de procesos químicos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos de Reciclado Químico de Plásticos",
+                                            "descripción": "Reciclado terciario o químico de polímeros provenientes de desechos, aplicando procesos de despolimerización favorecidos con catalizadores.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería química",
+                                                    "disciplina_snii": "Ingeniería ambiental"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Materiales Avanzados",
+                                    "descripción_del_área": "Esta área incluye materiales optoelectrónicos, nanomateriales y biomateriales con aplicaciones biomédicas o industriales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Materiales Optoelectrónicos",
+                                            "descripción": "Polímeros convencionales funcionalizados con propiedades fotoluminiscentes bajo luz UV.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería de materiales",
+                                                    "disciplina_snii": "Materiales y dispositivos optoelectrónicos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nanomateriales",
+                                            "descripción": "Preparación de materiales heterogéneos con estructuras nanométricas con propiedades especiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería de materiales",
+                                                    "disciplina_snii": "Nanotecnología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biomateriales",
+                                            "descripción": "Preparación de materiales sintetizados por vías biológicas o biocompatibles con aplicaciones biomédicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Biomateriales"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Procesos de Transformación de Plásticos",
+                                    "descripción_del_área": "Esta área abarca el procesado reactivo, mezclas y composites.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Procesado Reactivo",
+                                            "descripción": "Modificaciones físicas y químicas de polímeros y su integración física con otros para obtener materiales con propiedades mejoradas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería química",
+                                                    "disciplina_snii": "Tecnología de polímeros"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mezclas y Composites",
+                                            "descripción": "Preparación de cargas novedosas para matrices poliméricas y modificación de polímeros para facilitar la aceptación de cargas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería de materiales",
+                                                    "disciplina_snii": "Materiales compuestos"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Biociencias y Agrotecnología",
+                                    "descripción_del_área": "Combina conocimientos y experiencia agronómicos y del plástico para el desarrollo de técnicas de agroplasticultura aplicables a cultivos comerciales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tecnologías en agroplasticultura",
+                                            "descripción": "Investigación en formulación y evaluación de películas para cubiertas de invernaderos, mallas, túneles, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Tecnología de cultivos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Bio y nanotecnología en agricultura protegida",
+                                            "descripción": "Uso de herramientas o procesos bio- y nanotecnológicos en sistemas de producción en ambientes controlados y en la agricultura intensiva.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Nanotecnología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Uso eficiente del agua y fertirriego",
+                                            "descripción": "Eficientar agua y fertilizantes sin comprometer los sistemas agrícolas protegidos y a campo abierto.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Biotecnología",
+                                                    "disciplina_snii": "Manejo del agua"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        },
+                        {
+                            "departamento": "Servicios para la industria",
+                            "descripción_departamento": "Los laboratorios del CIQA cuentan con pruebas químicas, físicas, mecánicas y de microscopía que permiten proveer mediciones a materias primas o a productos plásticos. Algunas de estas pruebas están acreditadas por la Entidad Mexicana de Acreditación.",
+                            "áreas": [
+                                {
+                                    "área": "Investigación y Desarrollo",
+                                    "descripción_del_área": "La investigación se enfoca al desarrollo de nuevos y mejores materiales poliméricos para diversas aplicaciones, involucrando toda la cadena de producción del plástico.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Desarrollo de nuevos materiales poliméricos",
+                                            "descripción": "Investigación para el desarrollo de materiales poliméricos aplicables en empaques, recubrimientos, transportación de fármacos, entre otros.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Química",
+                                                    "disciplina_snii": "Química macromolecular"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Mejoramiento de materiales avanzados",
+                                            "descripción": "Desarrollo de materiales avanzados para resolver necesidades como disposición y aplicaciones del grafeno, biocompatibilidad de materiales para prótesis, etc.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería de materiales",
+                                                    "disciplina_snii": "Materiales avanzados"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Producción agrícola sustentable y de precisión",
+                                            "descripción": "Servicios basados en bio-nanotecnología para la agricultura protegida y la industria agro-alimentaria.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Agronomía",
+                                                    "disciplina_snii": "Tecnología agrícola"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Asistencia Técnica",
+                                    "descripción_del_área": "El CIQA ofrece expertise para interpretar, diagnosticar y solucionar problemas relacionados con plásticos, sus aditivos, componentes y procesos de reciclado.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Asesoría en sustitución de materiales plásticos",
+                                            "descripción": "Asesoría para la sustitución de materiales plásticos, disminución de fallas en piezas plásticas, y establecimiento de condiciones óptimas de procesamiento.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería química",
+                                                    "disciplina_snii": "Tecnología de polímeros"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Prototipado de piezas plásticas",
+                                            "descripción": "Servicios para prototipado de piezas plásticas y mejoramiento de propiedades del producto.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería de materiales",
+                                                    "disciplina_snii": "Materiales y procesos de fabricación"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Análisis de Materiales y Pruebas de Laboratorio",
+                                    "descripción_del_área": "El CIQA ofrece desarrollo de pruebas químicas, físicas, mecánicas y de microscopía para apoyar al sector productivo mediante servicios tecnológicos especializados.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Caracterización química y ensayos fisicomecánicos",
+                                            "descripción": "Pruebas para conocer la calidad de los productos y cumplir con exigencias de procesos y normas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Química",
+                                                    "disciplina_snii": "Química analítica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Análisis de falla en piezas plásticas",
+                                            "descripción": "Análisis y caracterización de defectos en piezas plásticas mediante técnicas de microscopía electrónica y otros métodos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería de materiales",
+                                                    "disciplina_snii": "Tecnología de polímeros"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Evaluaciones especializadas",
+                                            "descripción": "Estudio de la estructura mediante resonancias magnéticas nucleares, cuantificación de aditivos, evaluación de la degradación de materiales plásticos, entre otros.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería de materiales",
+                                                    "disciplina_snii": "Nanotecnología"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Oferta Académica y Capacitación para el Sector Industrial",
+                                    "descripción_del_área": "Programas de posgrado y educación continua para el sector industrial, incluyendo maestrías y diplomados.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Programas de posgrado modalidad profesionalizante",
+                                            "descripción": "Ofrecen estudios de maestría para personal de empresas en áreas de materiales poliméricos, procesado de plásticos, y ciencia e ingeniería de materiales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería química",
+                                                    "disciplina_snii": "Tecnología de polímeros"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Educación continua",
+                                            "descripción": "Diplomados, cursos teóricos y prácticos sobre materiales, procesado de plásticos, caracterización de materiales y otros temas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ingeniería y Tecnología",
+                                                    "campo_snii": "Ingeniería de materiales",
+                                                    "disciplina_snii": "Materiales y procesos de fabricación"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -100.9678527693147,
+                        25.459852760508685
+                    ],
+                    "estado": "Coahuila",
+                    "municipio": "Saltillo",
+                    "ciudad": "Saltillo",
+                    "código_postal": "25254"
+                },
+                {
+                    "nombre_unidad": "Unidad Monterrey",
+                    "descripción_unidad": "",
+                    "dirección_postal": "66628 Cdad. Apodaca, N.L.",
+                    "latitud": 25.764877072881262,
+                    "longitud": -100.12217980574067,
+                     "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ],
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -100.12217980574067,
+                        25.764877072881262
+                    ],
+                    "estado": "Nuevo León",
+                    "municipio": "Apodaca",
+                    "ciudad": "Monterrey",
+                    "código_postal": "66628"
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/CIQA-249127805231213/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/user/difusionciqa/videos?disable_polymer=1",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://twitter.com/ciqa_comunica",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ],
+            "importancia_diagnóstico": "",
+            "fuentes_financiamiento": [
+                {
+                    "fecha": "1900-01-01",
+                    "vigencia": "",
+                    "descripción": "",
+                    "monto_financiamiento": 0,
+                    "documentos": [
+                        {
+                            "fecha": "1900-01-01",
+                            "descripción": "",
+                            "liga": ""
+                        }
+                    ]
+                }
+            ],
+            "síntesis_hallazgos": [
+                {
+                    "hallazgo": "",
+                    "fecha_inicio": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "reporta": "",
+                    "relevancia": "mediana",
+                    "notas": []
+                }
+            ],
+            "propuestas_fortalecimiento": [
+                {
+                    "propuesta": "",
+                    "fecha_inicio": "1900-01-01",
+                    "responsables": [],
+                    "relevancia": "alta",
+                    "avances": [
+                        {
+                            "fecha": "1900-01-01",
+                            "avance": ""
+                        }
+                    ]
+                }
+            ],
+            "sindicatos": [
+                {
+                    "sindicato": "",
+                    "tipo_agremiados": "Desconocido",
+                    "número_agremiados": [
+                        {
+                            "año": 0,
+                            "agremiados": 0
+                        }
+                    ]
+                }
+            ],
+            "coordinates": [
+                -100.9678527693147,
+                25.459852760508685
+            ]
+        }
+    ]
+}

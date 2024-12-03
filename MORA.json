@@ -1,0 +1,1354 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Instituto de Investigaciones Dr. José María Luis Mora",
+            "siglas_cpi": "MORA",
+            "descripción_breve": "El Instituto Mora es reconocido en el mundo académico nacional e internacional por la excelencia en la investigación en historia y ciencias sociales, así como por la calidad de los programas académicos que imparte",
+            "descripción": "El Instituto Mora es un centro público de investigación y educación superior adscrito al Consejo Nacional de Ciencia y Tecnología (CONACYT) de México. Fue creado por decreto presidencial el 24 de septiembre de 1981 como un organismo público descentralizado. Su enfoque principal es la investigación en historia y ciencias sociales",
+            "misión": "La misión del Instituto Mora es contribuir al conocimiento y comprensión de la historia y las ciencias sociales, así como formar profesionales altamente capacitados en estas áreas.",
+            "visión": "El Instituto Mora busca ser un referente nacional e internacional en la investigación y la formación académica en historia y ciencias sociales.",
+            "titular": "Dra Ma. Gabriela Guadalupe Sánchez Gutiérrez",
+            "fecha_designación_titular": "2021-01-01",
+            "grado_académico_titular": "Doctora",
+            "especialidad_titular": "Ciencias de la Educación",
+            "origen": "El Instituto Mora El Instituto Mora fue creado por decreto presidencial en 1981.",
+            "fecha_creación": "1981-09-24",
+            "historia_establecimiento": "Instituto Mora, ha desempeñado un papel fundamental en el estudio de la historia y las ciencias sociales en México. A lo largo de los años, ha mantenido su compromiso con la investigación y la formación académica en estas áreas. Su Licenciatura en Historia es un programa docente que forma profesionales de excelencia en tres áreas clave del quehacer del historiador, Didáctica de la historia, Divulgación de la historia, Gestión del patrimonio cultural.",
+            "contexto_histórico": "Su establecimiento respondió a la necesidad de contar con una institución dedicada a la investigación en historia y ciencias sociales en México. Desde entonces, el Instituto Mora ha desarrollado una rica tradición de investigación y docencia en estas áreas. Su Licenciatura en Historia forma profesionales altamente capacitados en didáctica de la historia, divulgación histórica y gestión del patrimonio cultural.",
+            "tipo_entidad_legal": "Organismo descentralizado, con personalidad jurídica y patrimonio propio",
+            "figura_jurídica": "Organismo Público Descentralizado",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "BASES GENERALES PARA LA PROFESIONALIZACIÓN DEL PERSONAL DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE LAS ENTIDADES PARAESTATALES"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS EN MATERIA DE AUSTERIDAD REPUBLICANA DE LAADMINISTRACIÓN PÚBLICA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS PARA LA DESIGNACIÓN, SUPLENCIA E INTERINATO DE LAS PERSONAS TITULARES DE LAS DIRECCIONES GENERALES O EQUIVALENTES DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE PLANEACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2024"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DEL SISTEMA NACIONAL DE CENTROS PÚBLICOS DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2018,
+                    "total": 187390881,
+                    "recursos_fiscales": 176278522,
+                    "recursos_propios": 11112359
+                },
+                {
+                    "año": 2019,
+                    "total": 172995535,
+                    "recursos_fiscales": 168294900,
+                    "recursos_propios": 4700635
+                },
+                {
+                    "año": 2020,
+                    "total": 165987182,
+                    "recursos_fiscales": 161898378,
+                    "recursos_propios": 4088804
+                },
+                {
+                    "año": 2021,
+                    "total": 176724318,
+                    "recursos_fiscales": 168783333,
+                    "recursos_propios": 7940985
+                },
+                {
+                    "año": 2022,
+                    "total": 188803549,
+                    "recursos_fiscales": 186147211,
+                    "recursos_propios": 2656338
+                },
+                 {
+                    "año": 2023,
+                    "total": 208444193,
+                    "recursos_fiscales": 205193792,
+                    "recursos_propios": 3250401
+                },
+                {
+                    "año": 2024,
+                    "total": 225158328,
+                    "recursos_fiscales": 220764103,
+                    "recursos_propios": 4394225
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "DOCTORADO EN ESTUDIOS DEL DESARROLLO, PROBLEMAS Y PERSPECTIVAS LATINOAMERICANAS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "SOCIOLOGÍA",
+                            "disciplina_snii": "CAMBIO Y DESARROLLO SOCIAL"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN HISTORIA MODERNA Y CONTEMPORÁNEA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "HISTORIA",
+                            "disciplina_snii": "HISTORIA MODERNA Y CONTEMPORÁNEA"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "CIENCIAS POLÍTICAS",
+                            "disciplina_snii": "COOPERACIÓN INTERNACIONAL"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN ESTUDIOS REGIONALES",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "HISTORIA",
+                            "disciplina_snii": "HISTORIA Y ESTUDIOS REGIONALES"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN HISTORIA MODERNA Y CONTEMPORÁNEA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Humanidades y Ciencias de la Conducta",
+                            "campo_snii": "HISTORIA",
+                            "disciplina_snii": "HISTORIA MODERNA Y CONTEMPORÁNEA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN SOCIOLOGÍA POLÍTICA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "SOCIOLOGÍA",
+                            "disciplina_snii": "SOCIOLOGÍA POLÍTICA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Sede Plaza",
+                    "descripción_unidad": "La sede Plaza, es la sede principal del Instituto Mora y se encuentra en la casa que habitó el destacado político y reformista Valentín Gómez Farías.En esta sede ubicada en la Colonia San Juan Mixcoac, se imparten la mayoría de las clases de los diferentes programas académicos que ofrece el Instituto Mora.",
+                    "dirección_postal": "Plaza Valentín Gómez Farías #12 Col. San Juan Mixcoac México CDMX. C.P 03730",
+                    "latitud": 19.37861005651960,
+                    "longitud": -99.18276013068656,
+                    "departamentos": [
+                        {
+                            "departamento": "Historia",
+                            "descripción_departamento": "Estudio y análisis de los eventos y procesos históricos que han moldeado la sociedad.",
+                            "áreas": [
+                                {
+                                    "área": "Historia",
+                                    "descripción_del_área": "Investigación general de eventos y procesos históricos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Didáctica de la historia",
+                                            "descripción": "Promover métodos didácticos adecuados para enseñar historia, fomentando el pensamiento crítico y la reflexión.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "DIDÁCTICA Y DOCENCIA",
+                                                    "disciplina_snii": "Enseñanza de la Historia."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Divulgación de la historia",
+                                            "descripción": "Socializar el conocimiento histórico más allá del ámbito académico, alcanzando a diversos públicos con herramientas pedagógicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "DIDÁCTICA Y DOCENCIA",
+                                                    "disciplina_snii": "Enseñanza de la Historia."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Gestión del patrimonio cultural",
+                                            "descripción": "Preservar y administrar el patrimonio histórico de una comunidad, promoviendo su valor y acceso para mejorar la calidad de vida.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "DIDÁCTICA Y DOCENCIA",
+                                                    "disciplina_snii": "Enseñanza de la Historia."
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Historia Moderna y Contemporánea",
+                                    "descripción_del_área": "Análisis de los eventos y desarrollos históricos desde la Edad Moderna hasta la actualidad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Historia Política",
+                                            "descripción": "Estudia las estructuras, procesos y actores políticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia Moderna y Contemporánea"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Historia Económica",
+                                            "descripción": "Analiza los sistemas y cambios económicos a lo largo del tiempo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia Moderna y Contemporánea"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Historia Social y Cultural",
+                                            "descripción": "Investiga las prácticas sociales y culturales de diferentes épocas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia Moderna y Contemporánea"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Historia y Estudios Urbanos y Regionales",
+                                            "descripción": "Examina la historia de las ciudades y las regiones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia Moderna y Contemporánea"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Historia y Estudios Internacionales",
+                                            "descripción": "Se enfoca en la historia de América Latina, Estados Unidos y el Caribe.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia Moderna y Contemporánea"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Estudios Regionales",
+                                    "descripción_del_área": "Análisis de las características históricas, sociales, económicas y culturales de regiones específicas.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Historia Regional",
+                                            "descripción": "Analiza problemas regionales a partir de las transformaciones históricas del territorio.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia y Estudios Regionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Políticas públicas, gobiernos locales y ciudadanía",
+                                            "descripción": "Estudia las relaciones entre actores sociales y gubernamentales en territorios definidos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia y Estudios Regionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Política, gestión y cultura del agua",
+                                            "descripción": "Investiga la problemática del agua desde una perspectiva sociohistórica y regional.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia y Estudios Regionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Territorio y cultura: transformaciones, usos y apropiaciones del espacio",
+                                            "descripción": "Examina la apropiación del espacio y los conflictos territoriales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia y Estudios Regionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesos urbanos y regionales",
+                                            "descripción": "Estudia fenómenos urbanos como expansión, movilidad y planeación urbana.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Humanidades y Ciencias de la Conducta",
+                                                    "campo_snii": "HISTORIA",
+                                                    "disciplina_snii": "Historia y Estudios Regionales"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        },
+                        {
+                            "departamento": "Sociología",
+                            "descripción_departamento": "El Departamento de Sociología se dedica al estudio de las estructuras sociales, las relaciones humanas y las dinámicas culturales, abordando temas como la desigualdad, la movilidad social, y los procesos de cambio social a través de investigación y enseñanza interdisciplinaria.",
+                            "áreas": [
+                                {
+                                    "área": "Sociología Política",
+                                    "descripción_del_área": "Estudio de las relaciones entre sociedad y poder político.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Acción colectiva, organizaciones sociales y ciudadanía",
+                                            "descripción": "Se analizan los vínculos entre sociedad civil y Estado, enfocándose en la participación social y ciudadana para la construcción de ciudadanía democrática.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Sociología Política."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Instituciones, cultura política y procesos políticos",
+                                            "descripción": "Estudio de la interacción entre estructuras sociales, económicas y culturales, reconociendo tanto dinámicas institucionales como el papel de actores y prácticas en la definición del orden político y social.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Sociología Política."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Políticas públicas y desarrollo",
+                                            "descripción": "Investigación de políticas e instituciones gubernamentales para abordar problemas públicos en bienestar social, desarrollo, convivencia democrática, derechos humanos, prevención de violencia y acceso a la justicia.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Sociología Política."
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Memoria e historia política de México y de América Latina",
+                                            "descripción": "Análisis histórico de fenómenos sociopolíticos y problemas públicos para diseñar políticas públicas y reformas institucionales adecuadas a la realidad sociopolítica del país y de la región latinoamericana en un mundo globalizado.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Sociología Política."
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Cooperación Internacional para el Desarrollo",
+                                    "descripción_del_área": "Análisis de políticas y prácticas de desarrollo global.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Teorías, Métodos y Prácticas",
+                                            "descripción": "Análisis de la eficacia y eficiencia de la CID, fundamentos teóricos, gobernanza global, y herramientas para consultoría y evaluación de programas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Cooperación Internacional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Esquemas, Actores y Modalidades",
+                                            "descripción": "Estudio de la ayuda humanitaria, cooperación de agentes no gubernamentales, bilateral, regional, multilateral, sur-sur, triangular, y financiamiento al desarrollo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Cooperación Internacional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sectores Estratégicos I: Democracia, Seguridad y Desarrollo Humano",
+                                            "descripción": "Investigación sobre cohesión social, democracia, derechos humanos, educación, gobernanza, migración, pobreza, seguridad humana, y violencia estructural.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Cooperación Internacional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sectores Estratégicos II: Población, Género y Ética",
+                                            "descripción": "Estudios sobre cambio tecnológico, coherencia política, violencia de género, ética de la cooperación, infancia, juventudes, vejez, salud, y principios de la CID.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Cooperación Internacional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Estudios sobre cambio tecnológico, coherencia política, violencia de género, ética de la cooperación, infancia, juventudes, vejez, salud, y principios de la CID.",
+                                            "descripción": "Investigación sobre cambio climático, crecimiento verde, desarrollo sustentable, prevención de desastres, energía, finanzas sostenibles, medio ambiente, y océanos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Cooperación Internacional"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Estudios del Desarrollo. Problemas y Perspectivas Latinoamericanas",
+                                    "descripción_del_área": "Investigación de los desafíos y oportunidades en América Latina.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Problemas Políticos y Económicos",
+                                            "descripción": "Análisis de problemas políticos y económicos que afectan el desarrollo en América Latina, enfocándose en la democratización, la construcción de ciudadanía, gobernanza, violencia e inseguridad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Problemas Internacionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Problemas Sociales y Culturales",
+                                            "descripción": "Estudio de factores sociales y culturales que influyen en el desarrollo, incluyendo temas como cultura, familia, lenguaje, género, identidades y conflictos étnicos, y vida urbana.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Problemas Internacionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Problemas Urbanos y Ambientales",
+                                            "descripción": "Investigación sobre la apropiación y conflictos territoriales, expansión urbana, políticas de desarrollo sustentable, aprovechamiento de recursos comunes y desafíos del cambio climático.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Problemas Internacionales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Problemas Internacionales",
+                                            "descripción": "Análisis de políticas e instrumentos internacionales para fortalecer las relaciones entre países de América Latina, abordando temas como migración, derechos humanos, violencia y cooperación internacional para el desarrollo.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "CIENCIAS POLÍTICAS",
+                                                    "disciplina_snii": "Problemas Internacionales"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -99.18276013068656,
+                        19.378610056519605
+                    ],
+                    "estado": "Ciudad de México",
+                    "municipio": "Benito Juárez",
+                    "ciudad": "Ciudad de México",
+                    "código_postal": "03730"
+                },
+                {
+                    "nombre_unidad": "Madrid",
+                    "descripción_unidad": "En la sede Madrid que se ubica en la Colonia del Carmen Coyoacán.",
+                    "dirección_postal": "Madrid # 82 Col. del Carmen Coyoacán,C.P.04100 México, CDMX",
+                    "latitud": 19.356975563337166,
+                    "longitud": -99.1667173903373,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -99.1667173903373,
+                        19.356975563337166
+                    ],
+                    "estado": "Ciudad de México",
+                    "municipio": "Coyoacán",
+                    "ciudad": "Ciudad de México",
+                    "código_postal": "04100"
+                },
+                {
+                    "nombre_unidad": "Búfalo",
+                    "descripción_unidad": "En la sede Búfalo que se ubica en la Colonia del Valle Carmen Coyoacán",
+                    "dirección_postal": "03100",
+                    "latitud": 19.367318677819316,
+                    "longitud": -99.17770398281176,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -99.17770398281176,
+                        19.367318677819316
+                    ],
+                    "estado": "Ciudad de México",
+                    "municipio": "Benito Juárez",
+                    "ciudad": "Ciudad de México",
+                    "código_postal": "03230"
+                },
+                {
+                    "nombre_unidad": "Poussin",
+                    "descripción_unidad": "El nuevo inmueble fue adquirido en diciembre de 2013.",
+                    "dirección_postal": "03730",
+                    "latitud": 19.381267388138127,
+                    "longitud": -99.18589537941622,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -99.18589537941622,
+                        19.381267388138127
+                    ],
+                    "estado": "Ciudad de México",
+                    "municipio": "Benito Juárez",
+                    "ciudad": "Ciudad de México",
+                    "código_postal": "03700"
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/Institutomora",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/channel/UCd31wu6EQGqOzgLlcv4dykg",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/instituto.mora/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://twitter.com/institutomora",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ],
+            "importancia_diagnóstico": "",
+            "fuentes_financiamiento": [
+                {
+                    "fecha": "1900-01-01",
+                    "vigencia": "",
+                    "descripción": "",
+                    "monto_financiamiento": 0,
+                    "documentos": [
+                        {
+                            "fecha": "1900-01-01",
+                            "descripción": "",
+                            "liga": ""
+                        }
+                    ]
+                }
+            ],
+            "síntesis_hallazgos": [
+                {
+                    "hallazgo": "",
+                    "fecha_inicio": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "reporta": "",
+                    "relevancia": "mediana",
+                    "notas": []
+                }
+            ],
+            "propuestas_fortalecimiento": [
+                {
+                    "propuesta": "",
+                    "fecha_inicio": "1900-01-01",
+                    "responsables": [],
+                    "relevancia": "alta",
+                    "avances": [
+                        {
+                            "fecha": "1900-01-01",
+                            "avance": ""
+                        }
+                    ]
+                }
+            ],
+            "sindicatos": [
+                {
+                    "sindicato": "",
+                    "tipo_agremiados": "Desconocido",
+                    "número_agremiados": [
+                        {
+                            "año": 0,
+                            "agremiados": 0
+                        }
+                    ]
+                }
+            ],
+            "coordinates": [
+                -99.1826743,
+                19.37871126659597
+            ]
+        }
+    ]
+}

@@ -1,0 +1,714 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Ingeniería y Desarrollo Industrial",
+            "siglas_cpi": "CIDESI",
+            "descripción_breve": "CIDESI contribuye al desarrollo del sector productivo del país, a través de proyectos de Investigación e Innovación, así como servicios tecnológicos especializados de alto nivel, en sus instalaciones ubicadas en los Estados de Querétaro, Nuevo León, dentro del Parque de Investigación e Innovación Tecnológica y en el Estado de México.",
+            "descripción": "CIDESI mantiene alianzas estratégicas efectivas en investigación y desarrollo, así como en formación de capital humano, con instituciones nacionales como: el Instituto de Astronomía de la Universidad Nacional Autónoma de México, la Universidad Autónoma de Querétaro y el Centro Nacional de Metrología y alianzas estratégicas con instituciones internacionales como: la Agencia de Cooperación Internacional de Japón, la Universidad de Ciencias Aplicadas de Aachen de Alemania, las Universidades de Lehigh, Texas A&M, Team Technologies y la Anderson School of Management de la Universidad de Nuevo México de Estados Unidos, la Universidad de Sheffield de Inglaterra, el Centro de Tecnologías Aeronáuticas y Tecnalia de España.CIDESI está certificado bajo la norma lSO-9001:2008 y bajo estándares específicos de importantes empresas.Ha sido distinguido con el Premio Nacional de Tecnología y con el Premio Estatal de Exportación del Estado de Querétaro. Proveedor de la industria automotriz, autopartes, aeroespacial, energía, petroquímica, electrónica, electrodomésticos y alimenticia, entre otros sectores. CIDESI es Miembro de Alianza de National lnstruments, Casa de Diseño de Texas lnstruments y Freescale.",
+            "misión": "La Misión de CIDESI es conducir un programa innovador y sustentable en manufactura (de la 4RI), con aliados nacionales e internacionales, que permita expandir continuamente las competencias de desarrollo de tecnología propia y de nuestros aliados, generando al mismo tiempo nuevos conocimientos y oportunidades, en beneficio del propio centro, del país y del mercado tecnológico mundial. Apoyando el crecimiento económico industrial manufacturero, incrementando nuestro entendimiento sobre el avance de la manufactura en el mundo y el lugar en el que nos encontramos. Trabajando con la industria nacional para desarrollar y mejorar continuamente nuestra propia tecnología en manufactura, avanzando en liderazgo tecnológico.",
+            "visión": "La visión de CIDESI es desarrollar tecnología propia y generar conocimiento relacionado, ambos en manufactura del nuevo sistema de tecnologías digitales, para el beneficio de México en el entorno mundial.",
+            "titular": "José Cruz Pineda Castillo",
+            "fecha_designación_titular": "2019-01-01",
+            "grado_académico_titular": "doctor",
+            "especialidad_titular": "Control automático y procesamiento de señales.",
+            "origen": "CIDESI fue creado por decreto presidencial, publicado en el Diario Oficial de la Federación, el viernes 9 de marzo de 1984; inicialmente, como un departamento de apoyo directo a la industria dentro del Centro de Investigación y Estudios Avanzados (CINVESTAV), se le otorgaron las instalaciones de lo que había sido el Centro Nacional de Enseñanza Técnica Industrial (CENETI), en Azcapotzalco. Como parte de las acciones del Programa de Descentralización Administrativa y, por instrucciones de la Secretaría de Educación Pública, se iniciaron acciones para reubicar el Centro a una entidad federativa del país. Después de varios estudios, se determinó que la nueva sede fuera Santiago de Querétaro",
+            "fecha_creación": "1984-03-06",
+            "historia_establecimiento": "A partir del 28 de febrero de 1992, CIDESI pasó a formar parte del Sistema de Centros Públicos del Consejo Nacional de Ciencia y Tecnología (CONACyT). Desde entonces, la interacción que CIDESI ha mantenido con los diferentes sectores de la sociedad es a través de las directrices generales del Plan Nacional de Desarrollo, y en lo particular del Programa Nacional de Ciencia y Tecnología. Por lo tanto, sus funciones principales se han enfocado en implantar procesos de manufactura y transferirlos a la industria sobre bases comerciales; contribuir al desarrollo, difusión e implantación (dentro de la industria nacional) de aquellas tecnologías que se adapten mejor a las condiciones cambiantes del país; brindar servicios de asesoría a la industria de manufactura y a las compañías de ingeniería en las áreas de diseño, control y garantía de calidad, normalización, tecnología de procesos y asimilación de tecnología. Además, dentro de sus ejes de trabajo ha estado el desarrollar proyectos de investigación aplicada y de enseñanza especializada de interés para otras instituciones, a realizarse bajo convenios específicos; capacitar personal de la industria en la ingeniería de procesos de manufactura; fabricar productos o componentes que la industria nacional ha requerido; comercializar las tecnologías desarrolladas y los resultados obtenidos de la investigación.CIDESI hoy. En la actualidad está constituido como un organismo descentralizado, con personalidad jurídica y patrimonio propio, con autonomía de decisión técnica, operativa y administrativa. Está organizado en cuatro direcciones adjuntas: aeronáutica, administración y finanzas, posgrado, e I+D+i. De éstas, se desprenden las siguientes direcciones con las que el CIDESI contribuye activamente al desarrollo del sector productivo del país, a través de proyectos de investigación e innovación.",
+            "contexto_histórico": "El Cidesi tiene por finalidad contribuir al desarrollo del sector productivo de México mediante proyectos tecnológicos de investigación e innovación, además de proveer diversos servicios tecnológicos especializados.",
+            "tipo_entidad_legal": "Organismo descentralizado, con personalidad jurídica y patrimonio propio, con autonomía de decisión técnica, operativa y administrativa",
+            "figura_jurídica": "Organismo Público Descentralizado",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "BASES GENERALES PARA LA PROFESIONALIZACIÓN DEL PERSONAL DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE LAS ENTIDADES PARAESTATALES"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS EN MATERIA DE AUSTERIDAD REPUBLICANA DE LAADMINISTRACIÓN PÚBLICA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS PARA LA DESIGNACIÓN, SUPLENCIA E INTERINATO DE LAS PERSONAS TITULARES DE LAS DIRECCIONES GENERALES O EQUIVALENTES DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE PLANEACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2024"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DEL SISTEMA NACIONAL DE CENTROS PÚBLICOS DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2018,
+                    "total": 664459857,
+                    "recursos_fiscales": 292821574,
+                    "recursos_propios": 371638283
+                },
+                {
+                    "año": 2019,
+                    "total": 548678744,
+                    "recursos_fiscales": 259806975,
+                    "recursos_propios": 288871769
+                },
+                {
+                    "año": 2020,
+                    "total": 436925218,
+                    "recursos_fiscales": 290447482,
+                    "recursos_propios": 146477736
+                },
+                {
+                    "año": 2021,
+                    "total": 446676553,
+                    "recursos_fiscales": 316467377,
+                    "recursos_propios": 130209176
+                },
+                {
+                    "año": 2022,
+                    "total": 446494712,
+                    "recursos_fiscales": 329583974,
+                    "recursos_propios": 116910738
+                },
+                {
+                    "año": 2023,
+                    "total": 443086916,
+                    "recursos_fiscales": 335408722,
+                    "recursos_propios": 107678194
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "DOCTORADO INTERINSTITUCIONAL EN CIENCIA Y TECNOLOGÍA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "INGENIERÍA  INDUSTRIAL Y MANUFACTURA"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS EN DISEÑO E INNOVACIÓN DE PRODUCTO",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "DISEÑO AVANZADO"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "ESPECIALIDAD TECNÓLOGO EN MECATRÓNICA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "INGENIERÍA MECATRÓNICA"
+                        }
+                    ],
+                    "nivel": "especialidad",
+                    "modalidad": "profesionalizante",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "POSGRADO INTERINSTITUCIONAL EN CIENCIA Y TECNOLOGÍA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "INGENIERÍA  INDUSTRIAL Y MANUFACTURA"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Sede Nuevo León",
+                    "descripción_unidad": "",
+                    "dirección_postal": "66629",
+                    "latitud": 25.764202125995894,
+                    "longitud": -100.12182385970814,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencia de Materiales",
+                                                    "disciplina_snii": "Nanociencias"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -100.12182385970814,
+                        25.764202125995894
+                    ],
+                    "estado": "Nuevo León",
+                    "municipio": "Apodaca",
+                    "ciudad": "Apodaca",
+                    "código_postal": "66629"
+                },
+                {
+                    "nombre_unidad": "Sede Estado de México",
+                    "descripción_unidad": "",
+                    "dirección_postal": "54730",
+                    "latitud": 19.655024569283313,
+                    "longitud": -99.19458946801284,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencia de Materiales",
+                                                    "disciplina_snii": "Nanociencias"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -99.19458946801284,
+                        19.655024569283313
+                    ],
+                    "estado": "Estado de México",
+                    "municipio": "Cuatitlán Izcalli",
+                    "ciudad": "Apodaca",
+                    "código_postal": "54730"
+                },
+                {
+                    "nombre_unidad": "Sede Campeche",
+                    "descripción_unidad": "",
+                    "dirección_postal": "24150",
+                    "latitud": 18.660526068218665,
+                    "longitud": -91.77027371123896,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencia de Materiales",
+                                                    "disciplina_snii": "Nanociencias"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -91.77027371123896,
+                        18.660526068218665
+                    ],
+                    "estado": "Campeche",
+                    "municipio": "Ciudad del Carmen",
+                    "ciudad": "Apodaca",
+                    "código_postal": "24150"
+                },
+                {
+                    "nombre_unidad": "Sede Aeropuerto Querétaro",
+                    "descripción_unidad": "",
+                    "dirección_postal": "76270",
+                    "latitud": 20.6241012561909,
+                    "longitud": -100.1797442261166,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencia de Materiales",
+                                                    "disciplina_snii": "Nanociencias"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -100.1797442261166,
+                        20.6241012561909
+                    ],
+                    "estado": "Querétaro",
+                    "municipio": "Tequisquiapan",
+                    "ciudad": "",
+                    "código_postal": "76270"
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/CidesiMx",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/cidesimx/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/@CIDESICONAHCYT",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://twitter.com/CIDESIMX",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "LinkedIn",
+                    "identificador": "https://mx.linkedin.com/company/cidesimx",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ],
+            "importancia_diagnóstico": "",
+            "fuentes_financiamiento": [
+                {
+                    "fecha": "1900-01-01",
+                    "vigencia": "",
+                    "descripción": "",
+                    "monto_financiamiento": 0,
+                    "documentos": [
+                        {
+                            "fecha": "1900-01-01",
+                            "descripción": "",
+                            "liga": ""
+                        }
+                    ]
+                }
+            ],
+            "síntesis_hallazgos": [
+                {
+                    "hallazgo": "",
+                    "fecha_inicio": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "reporta": "",
+                    "relevancia": "mediana",
+                    "notas": []
+                }
+            ],
+            "propuestas_fortalecimiento": [
+                {
+                    "propuesta": "",
+                    "fecha_inicio": "1900-01-01",
+                    "responsables": [],
+                    "relevancia": "alta",
+                    "avances": [
+                        {
+                            "fecha": "1900-01-01",
+                            "avance": ""
+                        }
+                    ]
+                }
+            ],
+            "sindicatos": [
+                {
+                    "sindicato": "",
+                    "tipo_agremiados": "Desconocido",
+                    "número_agremiados": [
+                        {
+                            "año": 0,
+                            "agremiados": 0
+                        }
+                    ]
+                }
+            ],
+            "coordinates": [
+                -100.40568286931473,
+                20.62435793489187
+            ]
+        }
+    ]
+}

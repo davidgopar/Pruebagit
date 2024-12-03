@@ -1,0 +1,1905 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigación en Alimentación y Desarrollo",
+            "siglas_cpi": "CIAD",
+            "descripción_breve": "El CIAD se enfoca en la generación de  conocimiento para mejorar la producción, comercialización y consumo de alimentos, impulsar el desarrollo regional, promover la sustentabilidad y formar recursos humanos de alto nivel",
+            "descripción": "El CIAD es un centro público de investigación multidisciplinaria que responde a la problemática del sector alimentario y de desarrollo regional mediante la realización de estudios, asesorías, consultorías y servicios en los campos agroalimentario, pesquero, industrial, comercial, económico y social.",
+            "misión": "Contribuimos al desarrollo sustentable y al bienestar de la sociedad en las áreas de alimentación, nutrición, salud, desarrollo regional y recursos naturales mediante la generación, aplicación y difusión de conocimiento científico-tecnológico, la innovación y la formación de recursos humanos de alto nivel.",
+            "visión": "Ser un centro público de investigación con reconocimiento internacional por su calidad científica, sus programas de posgrado, sus aportes a la innovación tecnológica y social, su contribución a la transición hacia la sociedad del conocimiento y por estar altamente vinculado a las necesidades de la sociedad y ser punto de referencia en el diseño y evaluación de políticas públicas en las áreas de alimentación, nutrición, salud, desarrollo regional y recursos naturales.",
+            "titular": "Graciela Caire Juvera",
+            "fecha_designación_titular": "2023-01-27",
+            "grado_académico_titular": "Doctorado",
+            "especialidad_titular": "Nutrición Pública y Salud",
+            "origen": "El CIAD se creó por acuerdo publicado en el Diario Oficial de la Federación el 22 de septiembre de 1981 y se constituyó formalmente como asociación civil, con carácter de empresa de participación estatal mayoritaria, el 16 de marzo de 1982, teniendo su sede en Hermosillo, Sonora, México. Sus asociados fundadores fueron la Secretaría de Educación Pública, el Consejo Nacional de Ciencia y Tecnología, la Universidad Nacional Autónoma de México, el Instituto Politécnico Nacional y el Gobierno del Estado de Sonora. Sus asociados fundadores fueron la Secretaría de Educación Pública, el Consejo Nacional de Ciencia y Tecnología, la Universidad Nacional Autónoma de México, el Instituto Politécnico Nacional y el Gobierno del Estado de Sonora. En 1993 se integraron como asociados activos el Gobierno del Estado de Sinaloa y la Secretaría de Pesca (hoy Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación) y en 1997 el Gobierno del Estado de Chihuahua.",
+            "fecha_creación": "1981-09-22",
+            "historia_establecimiento": "En 1993 se integraron como asociados activos el Gobierno del Estado de Sinaloa y la Secretaría de Pesca (hoy Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación) y en 1997 el Gobierno del Estado de Chihuahua.",
+            "contexto_histórico": "En 1981, México se adentraba en una nueva década enfrentando diversas dificultades económicas y sociales. La crisis del petróleo de finales de los 70 había dejado una huella profunda en la economía, resultando en inflación y deuda externa elevadas. Estos problemas macroeconómicos afectaban directamente sectores cruciales como la alimentación y la agricultura. El país enfrentaba desafíos significativos en estas áreas, incluyendo la dependencia de importaciones de alimentos básicos y una productividad agrícola limitada por la falta de tecnología moderna y prácticas de cultivo eficientes. El ambiente sociopolítico en México durante este periodo estaba marcado por el intento de modernización y estabilización. El gobierno de José López Portillo, que comenzó en 1976 y concluyó en 1982, enfocó esfuerzos en políticas dirigidas al desarrollo tecnológico y agrícola como parte de su plan de Renovación Moral. Se hicieron inversiones significativas en infraestructura y en el desarrollo de tecnologías para mejorar la productividad agrícola, aunque estos esfuerzos a menudo eran obstaculizados por problemas de corrupción y una ejecución ineficaz. A nivel global, 1981 también fue un año de transición. El mundo estaba en medio de la Guerra Fría, con Estados Unidos bajo la nueva presidencia de Ronald Reagan y la Unión Soviética empezando la era de Mijaíl Gorbachov poco después. Estos liderazgos marcaban un cambio significativo en las políticas internacionales y tenían un impacto directo en las economías de muchos países, incluyendo México, que dependía en gran medida de las dinámicas económicas y políticas globales. Además, el mundo también empezaba a enfrentar los primeros desafíos de la globalización, que prometía mayores interconexiones internacionales pero también una competencia más intensa.",
+            "tipo_entidad_legal": "Entidad paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria",
+            "figura_jurídica": "Asociación Civil",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "BASES GENERALES PARA LA PROFESIONALIZACIÓN DEL PERSONAL DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE LAS ENTIDADES PARAESTATALES"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS EN MATERIA DE AUSTERIDAD REPUBLICANA DE LAADMINISTRACIÓN PÚBLICA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS PARA LA DESIGNACIÓN, SUPLENCIA E INTERINATO DE LAS PERSONAS TITULARES DE LAS DIRECCIONES GENERALES O EQUIVALENTES DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE PLANEACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2024"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DEL SISTEMA NACIONAL DE CENTROS PÚBLICOS DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2017,
+                    "total": 383799193,
+                    "recursos_fiscales": 347633169,
+                    "recursos_propios": 36166024
+                },
+                {
+                    "año": 2018,
+                    "total": 403222698,
+                    "recursos_fiscales": 364711946,
+                    "recursos_propios": 38510752
+                },
+                {
+                    "año": 2019,
+                    "total": 424615701,
+                    "recursos_fiscales": 359848927,
+                    "recursos_propios": 64766774
+                },
+                {
+                    "año": 2020,
+                    "total": 450760512,
+                    "recursos_fiscales": 388763986,
+                    "recursos_propios": 61996526
+                },
+                {
+                    "año": 2021,
+                    "total": 481973814,
+                    "recursos_fiscales": 428704677,
+                    "recursos_propios": 53269137
+                },
+                {
+                    "año": 2022,
+                    "total": 494662775,
+                    "recursos_fiscales": 447998564,
+                    "recursos_propios": 46664211
+                },
+                {
+                    "año": 2023,
+                    "total": 493255208,
+                    "recursos_fiscales": 464435162,
+                    "recursos_propios": 28820046
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "DOCTORADO EN CIENCIAS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "AGRONOMÍA",
+                            "disciplina_snii": "CIENCIA Y TECNOLOGÍA DE LOS ALIMENTOS"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN DESARROLLO REGIONAL",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "CIENCIAS POLÍTICAS",
+                            "disciplina_snii": "DESARROLLO REGIONAL"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                            "campo_snii": "AGRONOMÍA",
+                            "disciplina_snii": "CIENCIA Y TECNOLOGÍA DE LOS ALIMENTOS"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN DESARROLLO REGIONAL",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "CIENCIAS POLÍTICAS",
+                            "disciplina_snii": "DESARROLLO REGIONAL"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                }
+            ],
+            "unidades": [
+                
+                {
+                    "nombre_unidad": "Coordinación Regional Guaymas",
+                    "descripción_unidad": "Coordinación de Aseguramiento de Calidad y Aprovechamiento Sustentable de Recursos",
+                    "dirección_postal": "85480",
+                    "latitud": 27.8992657794113,
+                    "longitud": -110.87392958943624,
+                    "departamentos": [
+                        {
+                            "departamento": "Aseguramiento de Calidad y Aprovechamiento Sustentable de Recursos Naturales",
+                            "descripción_departamento": "Con sede en Guaymas, Sonora, desde 1994, este departamento se enfoca en servicios de inocuidad para la industria pesquera y acuícola inicialmente, expandiéndose hacia la investigación en recursos naturales y medio ambiente, así como en polímeros naturales.",
+                            "áreas": [
+                                {
+                                    "área": "Inocuidad Alimentaria",
+                                    "descripción_del_área": "Estudio de la seguridad en la cadena de producción alimentaria, con énfasis en bacterias patógenas y sistemas de aseguramiento de calidad y trazabilidad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ecología de bacterias patógenas",
+                                            "descripción": "Investigación sobre la ecología de bacterias patógenas en la cadena de producción alimentaria y su impacto en la seguridad alimentaria.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Microbiología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sistemas de aseguramiento de calidad y trazabilidad",
+                                            "descripción": "Desarrollo y optimización de sistemas para garantizar la calidad y trazabilidad de los alimentos desde la producción hasta el consumidor.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Ciencias Agropecuarias y Biotecnología de Alimentos"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Medio Ambiente",
+                                    "descripción_del_área": "Estudios sobre la biología y ecología de especies marinas y terrestres, monitoreo de contaminantes y sus efectos en ecosistemas costeros.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Ecofisiología",
+                                            "descripción": "Estudio de las respuestas fisiológicas de especies a factores ambientales y su adaptación en diferentes ecosistemas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ecología",
+                                                    "disciplina_snii": "Fisiología Ambiental"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Biodiversidad de la ictiofauna mexicana",
+                                            "descripción": "Investigación de la diversidad de peces en México y su importancia ecológica y económica.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Ictiología"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Polímeros Naturales",
+                                    "descripción_del_área": "Investigación en la funcionalidad y aplicaciones de biopolímeros para el desarrollo de nuevos materiales y tecnologías, como la ingeniería de tejidos y la liberación controlada de sustancias.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Nanobiotecnología en liberación sostenida de fármacos",
+                                            "descripción": "Desarrollo de nanosistemas basados en biopolímeros para la liberación controlada de fármacos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biotecnología y Bioingeniería",
+                                                    "disciplina_snii": "Nanobiotecnología"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -110.87392958943624,
+                        27.8992657794113
+                    ],
+                    "estado": "Sonora",
+                    "municipio": "Guaymas",
+                    "ciudad": "Guaymas",
+                    "código_postal": "85480"
+                },
+                {
+                    "nombre_unidad": "Coordinación Regional Cuauhtémoc",
+                    "descripción_unidad": "Coordinación de Fisiología y Tecnología de Alimentos de la Zona Templada, inició actividades en 1997 y trabaja estrechamente con el sector agropecuario y agroindustrial de Cuauhtémoc, Chihuahua, enfocándose en la mejora y desarrollo de productos agrícolas regionales como manzana, durazno, nuez, y otros.",
+                    "dirección_postal": "31570",
+                    "latitud": 28.44753024177227,
+                    "longitud": -106.82882836837423,
+                    "departamentos": [
+                        {
+                            "departamento": "Fisiología y Tecnología de Alimentos de la Zona Templada",
+                            "descripción_departamento": "Este departamento se enfoca en la investigación y desarrollo tecnológico relacionado con la fisiología, biología molecular y tecnología aplicada a la conservación y procesamiento de alimentos, control biológico de plagas, y desarrollo de empaques biodegradables.",
+                            "áreas": [
+                                {
+                                    "área": "Fisiología y Tecnología de Alimentos",
+                                    "descripción_del_área": "Dedicada a la investigación aplicada y básica en la fisiología de cultivos, tecnología de alimentos, y desarrollo de soluciones innovadoras para la industria agroalimentaria.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Manejo poscosecha de productos hortofrutícolas",
+                                            "descripción": "Optimización de técnicas para el manejo poscosecha que mejoren la calidad y durabilidad de productos hortofrutícolas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biotecnología y Bioingeniería",
+                                                    "disciplina_snii": "Tecnología Postcosecha"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Uso de almidones no-convencionales en la fabricación de películas y recubrimientos",
+                                            "descripción": "Investigación en el desarrollo de nuevos materiales biodegradables para la industria alimentaria usando almidones no-convencionales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología Química",
+                                                    "disciplina_snii": "Ciencia de Materiales"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Control biorracional de enfermedades en apiarios",
+                                            "descripción": "Desarrollo de métodos de control biológico para enfermedades en apiarios que sean sostenibles y eficientes.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Entomología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Propiedades fisicoquímicas, tecnológicas y de bioactividad de compuestos de origen vegetal",
+                                            "descripción": "Estudio de las propiedades de compuestos bioactivos en plantas y su aplicación en alimentos funcionales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Química",
+                                                    "disciplina_snii": "Bioquímica"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calidad y procesamiento de productos lácteos",
+                                            "descripción": "Mejora de procesos en la producción y calidad de productos lácteos a través de tecnologías avanzadas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Ciencias Agropecuarias y Biotecnología de Alimentos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Química y bioquímica del desarrollo de aroma en frutas",
+                                            "descripción": "Investigación en los procesos químicos y bioquímicos que influyen en el desarrollo del aroma en diferentes tipos de frutas, crucial para la calidad sensorial de los productos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Química",
+                                                    "disciplina_snii": "Bioquímica de Alimentos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Interacciones moleculares fitopatógeno-hospedero",
+                                            "descripción": "Estudio de las interacciones a nivel molecular entre patógenos vegetales y sus hospederos, buscando métodos para mejorar la resistencia de las plantas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Fitopatología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Identificación y evaluación de entomopatógenos de relevancia comercial",
+                                            "descripción": "Investigación dirigida a identificar y evaluar patógenos de insectos que puedan ser utilizados en control biológico, contribuyendo a prácticas agrícolas más sostenibles.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Entomología"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -106.82882836837423,
+                        28.44753024177227
+                    ],
+                    "estado": "Chihuahua",
+                    "municipio": "Cuauhtémoc",
+                    "ciudad": "Cuauhtémoc",
+                    "código_postal": "31570"
+                },
+                {
+                    "nombre_unidad": "Coordinación Regional Delicias",
+                    "descripción_unidad": "Coordinación de Tecnología de Productos Hortofrutícolas y Lácteos, ubicada en Delicias, Chihuahua, se enfoca en colaborar con productores locales de frijol, cebolla, chile y leche desde 2002. Está dedicada a la mejora de procesos y productos en el sector agropecuario y agroindustrial.",
+                    "dirección_postal": "33089",
+                    "latitud": 28.172646406504693,
+                    "longitud": -105.4545555254263,
+                    "departamentos": [
+                        {
+                            "departamento": "Tecnología de Productos Hortofrutícolas y Lácteos",
+                            "descripción_departamento": "Este departamento se centra en la investigación y desarrollo de tecnologías aplicadas a la mejora de la calidad y seguridad alimentaria de productos hortofrutícolas y lácteos, con un fuerte enfoque en la colaboración con los productores locales.",
+                            "áreas": [
+                                {
+                                    "área": "Tecnología de Alimentos",
+                                    "descripción_del_área": "Investiga y desarrolla técnicas para mejorar la calidad, inocuidad y procesamiento de alimentos, apoyando también la conservación y nutrición vegetal.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Identificación molecular de microorganismos",
+                                            "descripción": "Estudio y caracterización de microorganismos en alimentos mediante técnicas moleculares para asegurar la calidad e inocuidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Microbiología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Calidad e inocuidad alimentaria",
+                                            "descripción": "Desarrollo de protocolos y sistemas para asegurar la calidad e inocuidad de los alimentos durante su producción y procesamiento.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Ciencias Agropecuarias y Biotecnología de Alimentos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Aseguramiento de inocuidad en el proceso de alimentos",
+                                            "descripción": "Implementación de sistemas de control de calidad para garantizar la seguridad alimentaria a lo largo de toda la cadena de producción.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Seguridad Alimentaria"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Nanoestudio computacional de biomoléculas",
+                                            "descripción": "Uso de herramientas computacionales para el estudio de biomoléculas que impactan en la calidad y funcionalidad de los alimentos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Química",
+                                                    "disciplina_snii": "Química Computacional"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesado y calidad de alimentos",
+                                            "descripción": "Optimización de procesos para mejorar la calidad de los alimentos procesados, extendiendo su vida útil y preservando sus propiedades nutricionales.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Tecnología de Alimentos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Conservación y calidad poscosecha de frutas y hortalizas",
+                                            "descripción": "Técnicas avanzadas para la conservación poscosecha que mantengan la calidad y prolonguen la vida útil de frutas y hortalizas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biotecnología y Bioingeniería",
+                                                    "disciplina_snii": "Tecnología Postcosecha"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Fisiología y nutrición vegetal",
+                                            "descripción": "Investigación sobre los requerimientos nutricionales de plantas cultivadas y su impacto en la productividad y calidad de los cultivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Fisiología Vegetal"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -105.4545555254263,
+                        28.172646406504693
+                    ],
+                    "estado": "Chihuahua",
+                    "municipio": "Delicias",
+                    "ciudad": "Delicias",
+                    "código_postal": "33089"
+                },
+                {
+                    "nombre_unidad": "Coordinación Regional Culiacán",
+                    "descripción_unidad": "Coordinación de Ciencia y Tecnología de Productos Agrícolas para Zonas Tropicales y Subtropicales en Culiacán, Sinaloa, dedicada a la investigación y desarrollo en horticultura, inocuidad alimentaria, biotecnología y tecnología de alimentos, con especial enfoque en valor agregado y seguridad alimentaria.",
+                    "dirección_postal": "80110",
+                    "latitud": 24.73445358008113,
+                    "longitud": -107.45459322151888,
+                    "departamentos": [
+                        {
+                            "departamento": "Ciencia y Tecnología de Productos Agrícolas para Zonas Tropicales y Subtropicales",
+                            "descripción_departamento": "Este departamento se centra en mejorar la productividad y sostenibilidad de la agricultura en zonas tropicales y subtropicales mediante avanzadas técnicas de cultivo y tecnología alimentaria, garantizando la inocuidad y calidad de los alimentos.",
+                            "áreas": [
+                                {
+                                    "área": "Tecnología de Alimentos y Biotecnología",
+                                    "descripción_del_área": "Investigación y desarrollo de tecnologías poscosecha para mejorar la calidad nutricional y funcional de frutas, hortalizas y granos, y estudios moleculares para optimizar los cultivos de importancia agroalimentaria.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tecnología poscosecha de frutas, hortalizas y granos",
+                                            "descripción": "Enfoque en el valor agregado y composición nutricional de los alimentos, explorando propiedades bioactivas y su funcionalidad con fines medicinales y bioenergéticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Tecnología de Alimentos"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Inocuidad Alimentaria",
+                                    "descripción_del_área": "Asegura la inocuidad de la cadena de producción alimenticia, desde el campo hasta el consumo final, mediante técnicas avanzadas de análisis y control.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Evaluación de puntos críticos de contaminación",
+                                            "descripción": "Valoración, diagnóstico e identificación de contaminantes físicos, químicos y biológicos en alimentos, definiendo estrategias para reducir riesgos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Microbiología"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Horticultura",
+                                    "descripción_del_área": "Estudios en sistemas de productividad agrícola, desde técnicas de cultivo tradicionales hasta agricultura protegida, incluyendo manejo integrado de plagas y enfermedades.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Sistemas de productividad agrícola",
+                                            "descripción": "Valoración de técnicas de cultivo y manejo agronómico para mejorar la productividad y sostenibilidad de cultivos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Agronomía",
+                                                    "disciplina_snii": "Horticultura"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Bioestadística",
+                                    "descripción_del_área": "Investigación y servicios relacionados con el clima y la contaminación ambiental y su impacto en la agricultura.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Estudios climáticos y su impacto en la agricultura",
+                                            "descripción": "Análisis de datos climáticos y su relación con las prácticas agrícolas y pecuarias, apoyando decisiones en el sector agrícola.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Tierra",
+                                                    "disciplina_snii": "Meteorología Agrícola"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -107.45459322151888,
+                        24.73445358008113
+                    ],
+                    "estado": "Sinaloa",
+                    "municipio": "Culiacán",
+                    "ciudad": "Culiacán",
+                    "código_postal": "80110"
+                },
+                {
+                    "nombre_unidad": "Coordinación Regional Mazatlán",
+                    "descripción_unidad": "Coordinación de Acuicultura y Manejo Ambiental en Mazatlán, Sinaloa, creada en 1993, se enfoca en el manejo sustentable de recursos costeros y acuicultura, con especialización en genética, reproducción, nutrición y sanidad de organismos acuáticos.",
+                    "dirección_postal": "82112",
+                    "latitud": 23.301965443065384,
+                    "longitud": -106.4821380960703,
+                    "departamentos": [
+                        {
+                            "departamento": "Manejo Sustentable de la Zona Costera",
+                            "descripción_departamento": "Centrado en el estudio y conservación de la biodiversidad costera, calidad ambiental y uso sostenible de recursos costeros.",
+                            "áreas": [
+                                {
+                                    "área": "Biodiversidad y Conservación",
+                                    "descripción_del_área": "Estudios sobre la diversidad de la vida marina y costera, y su conservación.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Diversidad de parásitos en organismos acuáticos",
+                                            "descripción": "Investigación sobre los parásitos que afectan a los organismos acuáticos y sus ciclos de vida.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Parasitología"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Ecotoxicología de ambientes costeros",
+                                            "descripción": "Estudio de los efectos de los contaminantes en los ecosistemas costeros y marinos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Ciencias Ambientales",
+                                                    "disciplina_snii": "Ecotoxicología"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        },
+                        {
+                            "departamento": "Cultivo de Organismos Acuáticos",
+                            "descripción_departamento": "Enfocado en la nutrición, reproducción y sanidad de organismos acuáticos para mejorar la producción y sostenibilidad de la acuicultura.",
+                            "áreas": [
+                                {
+                                    "área": "Reproducción y Cultivo",
+                                    "descripción_del_área": "Desarrollo y optimización de técnicas de reproducción y cultivo para organismos acuáticos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Nutrición y alimentación de organismos acuáticos",
+                                            "descripción": "Estudios sobre los requerimientos nutricionales y las mejores prácticas de alimentación para la acuicultura.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Nutrición",
+                                                    "disciplina_snii": "Nutrición Animal"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Sanidad e inocuidad de productos acuáticos",
+                                            "descripción": "Investigación sobre las enfermedades en acuicultura y métodos para garantizar la inocuidad de los productos acuáticos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_snii": "Sanidad Acuícola"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -106.4821380960703,
+                        23.301965443065384
+                    ],
+                    "estado": "Sinaloa",
+                    "municipio": "Mazatlán",
+                    "ciudad": "Mazatlán",
+                    "código_postal": "82112"
+                },
+                {
+                    "nombre_unidad": "Unidad de Gestión Tecnológica (UGT)",
+                    "descripción_unidad": "Unidad de Gestión Tecnológica",
+                    "dirección_postal": "63173",
+                    "latitud": 21.482858101712896,
+                    "longitud": -104.84851165675114,
+                    "departamentos": [
+                        {
+                            "departamento": "",
+                            "descripción_departamento": "",
+                            "áreas": [
+                                {
+                                    "área": "",
+                                    "descripción_del_área": "",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "",
+                                            "descripción": "",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "",
+                                                    "disciplina_snii": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -104.84851165675114,
+                        21.482858101712896
+                    ],
+                    "estado": "Nayarit",
+                    "municipio": "Tepic",
+                    "ciudad": "Tepic",
+                    "código_postal": "63173"
+                },
+                {
+                    "nombre_unidad": "Subsede Hidalgo",
+                    "descripción_unidad": "La subsede Hidalgo forma parte del Centro de Investigación en Alimentación y Desarrollo (CIAD) Hermosillo, con el sentido de consolidar grupos académicos, coordinar esfuerzos, complementar recursos humanos, equipamiento y espacios físicos para atender necesidades y problemas nacionales o de regiones específicas.",
+                    "dirección_postal": "42163",
+                    "latitud": 20.113908865752368,
+                    "longitud": -98.8288839311571,
+                    "departamentos": [
+                        {
+                            "departamento": "Investigación en Sustentabilidad y Desarrollo Agroalimentario",
+                            "descripción_departamento": "Dedicado a la investigación y desarrollo en sistemas agrícolas, ganaderos y acuícolas, socioeconomía alimentaria y desarrollo regional, agroindustria e industria alimentaria, y agua, sanidad e inocuidad alimentaria.",
+                            "áreas": [
+                                {
+                                    "área": "Sistemas agrícolas, ganaderos y acuícolas sustentables",
+                                    "descripción_del_área": "Fomenta prácticas sostenibles en agricultura, ganadería y acuicultura para mejorar la eficiencia y reducir el impacto ambiental.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Agricultura de riego y temporal",
+                                            "descripción": "Investigación en métodos de cultivo que optimicen el uso del agua y del suelo en diferentes condiciones climáticas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Agronomía",
+                                                    "disciplina_snii": "Agricultura Sostenible"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Tecnología poscosecha",
+                                            "descripción": "Desarrollo de tecnologías para mantener la calidad y prolongar la vida útil de productos agrícolas después de la cosecha.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Tecnología Postcosecha"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Acuicultura: trucha y tilapia",
+                                            "descripción": "Optimización de técnicas de cultivo para trucha y tilapia, centradas en la sostenibilidad y la productividad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Biología y Química",
+                                                    "campo_snii": "Biología",
+                                                    "disciplina_snii": "Acuicultura"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Socio economía alimentaria y desarrollo regional",
+                                    "descripción_del_área": "Estudio del impacto económico y social de las cadenas productivas agroalimentarias en el desarrollo regional.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Fortalecimiento de cadenas productivas y comercialización",
+                                            "descripción": "Mejora de la eficiencia y sostenibilidad de las cadenas de valor agroalimentarias a través de la innovación y la cooperación.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Sociales",
+                                                    "campo_snii": "Economía",
+                                                    "disciplina_snii": "Economía Agrícola"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Agroindustria e industria alimentaria",
+                                    "descripción_del_área": "Innovación en procesos de transformación y valorización de productos agroalimentarios, enfocados en la calidad y seguridad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tecnología de alimentos",
+                                            "descripción": "Desarrollo de nuevas tecnologías y procesos para mejorar la calidad y seguridad de los alimentos procesados.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias y Biotecnología de Procesos",
+                                                    "disciplina_snii": "Tecnología de Alimentos"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Agua, sanidad e inocuidad alimentaria",
+                                    "descripción_del_área": "Investigaciones destinadas a asegurar la calidad del agua y los alimentos, enfocadas en la salud pública y la seguridad alimentaria.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Sanidad e inocuidad alimentaria",
+                                            "descripción": "Estudios avanzados para detectar y controlar patógenos en alimentos y agua, reduciendo riesgos para la salud humana.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Medicina y Ciencias de la Salud",
+                                                    "campo_snii": "Medicina y Ciencias de la Salud",
+                                                    "disciplina_snii": "Sanidad Acuícola"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -98.8288839311571,
+                        20.113908865752368
+                    ],
+                    "estado": "Hidalgo",
+                    "municipio": "San Agustín Tlaxiaca",
+                    "ciudad": "San Agustín Tlaxiaca",
+                    "código_postal": "42163"
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/ciad.conahcyt",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "Instagram",
+                    "identificador": "https://www.instagram.com/ciad.conahcyt/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/channel/UCpD7BNh4ZO1Gvu0qRwIzyQg/featured",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://twitter.com/CiadConahcyt",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ],
+            "importancia_diagnóstico": "",
+            "fuentes_financiamiento": [
+                {
+                    "fecha": "1900-01-01",
+                    "vigencia": "",
+                    "descripción": "",
+                    "monto_financiamiento": 0,
+                    "documentos": [
+                        {
+                            "fecha": "1900-01-01",
+                            "descripción": "",
+                            "liga": ""
+                        }
+                    ]
+                }
+            ],
+            "síntesis_hallazgos": [
+                {
+                    "hallazgo": "",
+                    "fecha_inicio": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "reporta": "",
+                    "relevancia": "mediana",
+                    "notas": []
+                }
+            ],
+            "propuestas_fortalecimiento": [
+                {
+                    "propuesta": "",
+                    "fecha_inicio": "1900-01-01",
+                    "responsables": [],
+                    "relevancia": "alta",
+                    "avances": [
+                        {
+                            "fecha": "1900-01-01",
+                            "avance": ""
+                        }
+                    ]
+                }
+            ],
+            "sindicatos": [
+                {
+                    "sindicato": "",
+                    "tipo_agremiados": "Desconocido",
+                    "número_agremiados": [
+                        {
+                            "año": 0,
+                            "agremiados": 0
+                        }
+                    ]
+                }
+            ],
+            "coordinates": [
+                -110.87434660466468,
+                29.148034704419157
+            ]
+        }
+    ]
+}

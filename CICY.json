@@ -1,0 +1,566 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Centro de Investigación Científica de Yucatán, A.C.",
+            "siglas_cpi": "CICY",
+            "descripción_breve": "Centro Público de Investigación del Sistema CONAHCYT que se dedica a la investigación básica y aplicada en biología, materiales y disciplinas afines. Su enfoque está en resolver problemas a nivel nacional, regional y local. Además, se destaca por la formación de recursos humanos, la divulgación de conocimiento, el desarrollo y la transferencia de tecnología, promoviendo el desarrollo de la sociedad en armonía con el medio ambiente.",
+            "descripción": "Somos un Centro Público de Investigación del Sistema CONAHCYT enfocado a realizar investigación básica y aplicada en el área de biología, materiales y disciplinas afines; orientado hacia la solución de problemas nacionales, regionales y locales. De acuerdo a nuestra misión, realizamos investigación científica, formamos recursos humanos, divulgamos conocimiento, desarrollamos y transferimos tecnología e impulsamos el desarrollo de la sociedad en armonía con el medio ambiente.",
+            "misión": "Realizamos investigación científica, formamos recursos humanos, divulgamos conocimiento, desarrollamos y transferimos tecnología e impulsamos el desarrollo de la sociedad en armonía con el medio ambiente.",
+            "visión": "Ser una institución líder, reconocida local, nacional e internacionalmente, innovadora en la generación y aplicación del conocimiento en beneficio de la humanidad.",
+            "titular": "Dr. Pedro Iván González Chi",
+            "fecha_designación_titular": "2019-05-16",
+            "grado_académico_titular": "Doctorado en Ciencia y Tecnología de Polímeros",
+            "especialidad_titular": "Materiales compuestos y nanomateriales",
+            "origen": "Mérida, Yucatán, México",
+            "fecha_creación": "1979-11-16",
+            "historia_establecimiento": "El Centro de Investigación Científica de Yucatán (CICY) fue fundado el 16 de noviembre de 1979.",
+            "contexto_histórico": "El CICY se estableció en respuesta a la necesidad de abordar problemas específicos del sector productivo en la región de Yucatán. Desde sus inicios, se enfocó en la investigación científica y tecnológica, así como en la formación de recursos humanos altamente capacitados.",
+            "tipo_entidad_legal": "Entidad paraestatal asimilada al régimen de las empresas de participación estatal mayoritaria",
+            "figura_jurídica": "Asociación Civil",
+            "marco_normativo": [
+                {
+                    "ley_o_instrumento_jurídico": "BASES GENERALES PARA LA PROFESIONALIZACIÓN DEL PERSONAL DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE LAS ENTIDADES PARAESTATALES"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS EN MATERIA DE AUSTERIDAD REPUBLICANA DE LAADMINISTRACIÓN PÚBLICA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS PARA LA DESIGNACIÓN, SUPLENCIA E INTERINATO DE LAS PERSONAS TITULARES DE LAS DIRECCIONES GENERALES O EQUIVALENTES DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE PLANEACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2024"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DEL SISTEMA NACIONAL DE CENTROS PÚBLICOS DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2018,
+                    "total": 290162348,
+                    "recursos_fiscales": 273358204,
+                    "recursos_propios": 16804144
+                },
+                {
+                    "año": 2019,
+                    "total": 275346042,
+                    "recursos_fiscales": 262780545,
+                    "recursos_propios": 12565497
+                },
+                {
+                    "año": 2020,
+                    "total": 282515286,
+                    "recursos_fiscales": 267723681,
+                    "recursos_propios": 14791605
+                },
+                {
+                    "año": 2021,
+                    "total": 279900854,
+                    "recursos_fiscales": 269176508,
+                    "recursos_propios": 10724346
+                },
+                {
+                    "año": 2022,
+                    "total": 295669150,
+                    "recursos_fiscales": 283790479,
+                    "recursos_propios": 11878671
+                },
+                {
+                    "año": 2023,
+                    "total": 313842885,
+                    "recursos_fiscales": 304340797,
+                    "recursos_propios": 9502088
+                },
+                {
+                    "año": 2024,
+                    "total": 375359683,
+                    "recursos_fiscales": 325175568,
+                    "recursos_propios": 50184115
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS DEL AGUA",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                            "campo_snii": "CIENCIAS DEL MAR",
+                            "disciplina_snii": "HIDROLOGÍA Y RECURSOS HÍDRICOS"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS: CIENCIAS BIOLÓGICAS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "BIOLOGÍA",
+                            "disciplina_snii": "BOTÁNICA / BIOLOGÍA VEGETAL"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS: ENERGÍA RENOVABLE",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "ENERGÍA RENOVABLE"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIAS: MATERIALES POLIMÉRICOS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "CIENCIA Y TECNOLOGÍA DE MATERIALES"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN CIENCIAS: CIENCIAS BIOLÓGICAS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Biología y Química",
+                            "campo_snii": "BIOLOGÍA",
+                            "disciplina_snii": "BOTÁNICA / BIOLOGÍA VEGETAL"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN CIENCIAS: ENERGÍA RENOVABLE",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "ENERGÍA RENOVABLE"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "DOCTORADO EN CIENCIAS: MATERIALES POLIMERICOS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "CIENCIA Y TECNOLOGÍA DE MATERIALES"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "Unidad de Ciencias del Agua",
+                    "descripción_unidad": "La Unidad de Ciencias del Agua se dedica a la investigación y desarrollo de soluciones para la gestión sostenible del agua, abarcando desde la hidrología hasta la tecnología de tratamiento de aguas.",
+                    "dirección_postal": "77524",
+                    "latitud": 21.174912144145665,
+                    "longitud": -86.82111598909789,
+                    "departamentos": [
+                        {
+                            "departamento": "Departamento de Hidrología",
+                            "descripción_departamento": "El Departamento de Hidrología se enfoca en el estudio de los recursos hídricos, la gestión del agua y las técnicas de mitigación y adaptación al cambio climático.",
+                            "áreas": [
+                                {
+                                    "área": "Gestión de Recursos Hídricos",
+                                    "descripción_del_área": "El área de Gestión de Recursos Hídricos aborda la administración sostenible de los recursos acuáticos, la conservación y el uso eficiente del agua.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Tecnologías de Tratamiento de Aguas",
+                                            "descripción": "Desarrollo e implementación de tecnologías avanzadas para el tratamiento y reutilización del agua, con un enfoque en la sostenibilidad y eficiencia.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Agropecuarias y Biotecnología",
+                                                    "campo_snii": "Ciencias Agropecuarias",
+                                                    "disciplina_snii": "Hidrología y Recursos Hídricos"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -86.82111598909789,
+                        21.174912144145665
+                    ],
+                    "estado": "Yucatán",
+                    "municipio": "Mérida",
+                    "ciudad": "Mérida",
+                    "código_postal": "77524"
+                },
+                {
+                    "nombre_unidad": "Unidad de Energía Renovable",
+                    "descripción_unidad": "La Unidad de Materiales se dedica al estudio y desarrollo de nuevos materiales poliméricos y nanocompuestos para aplicaciones industriales y tecnológicas.",
+                    "dirección_postal": "97302",
+                    "latitud": 21.13073788881381,
+                    "longitud": -89.78053020701391,
+                    "departamentos": [
+                        {
+                            "departamento": "Departamento de Materiales Poliméricos",
+                            "descripción_departamento": "El Departamento de Materiales Poliméricos se dedica al estudio y desarrollo de nuevos materiales poliméricos y nanocompuestos para aplicaciones industriales y tecnológicas.",
+                            "áreas": [
+                                {
+                                    "área": "Ciencia de Materiales",
+                                    "descripción_del_área": "Investigación en la estructura, propiedades y aplicaciones de materiales poliméricos y nanocompuestos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Nanomateriales y Composites",
+                                            "descripción": "Desarrollo de nanomateriales y composites avanzados para mejorar el rendimiento de materiales en diversas aplicaciones.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencia de Materiales",
+                                                    "disciplina_snii": "Nanociencias"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -89.78053020701391,
+                        21.13073788881381
+                    ],
+                    "estado": "Yucatán",
+                    "municipio": "Mérida",
+                    "ciudad": "Mérida",
+                    "código_postal": "97302"
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/CICYoficial/",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/channel/UC4FUV-Q2xRPwv17yEfEFP4A",
+                    "activa": true,
+                    "propósito": "otro"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://twitter.com/cicymx?lang=es",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                }
+            ],
+            "importancia_diagnóstico": "",
+            "fuentes_financiamiento": [
+                {
+                    "fecha": "1900-01-01",
+                    "vigencia": "",
+                    "descripción": "",
+                    "monto_financiamiento": 0,
+                    "documentos": [
+                        {
+                            "fecha": "1900-01-01",
+                            "descripción": "",
+                            "liga": ""
+                        }
+                    ]
+                }
+            ],
+            "síntesis_hallazgos": [
+                {
+                    "hallazgo": "",
+                    "fecha_inicio": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "reporta": "",
+                    "relevancia": "mediana",
+                    "notas": []
+                }
+            ],
+            "propuestas_fortalecimiento": [
+                {
+                    "propuesta": "",
+                    "fecha_inicio": "1900-01-01",
+                    "responsables": [],
+                    "relevancia": "alta",
+                    "avances": [
+                        {
+                            "fecha": "1900-01-01",
+                            "avance": ""
+                        }
+                    ]
+                }
+            ],
+            "sindicatos": [
+                {
+                    "sindicato": "",
+                    "tipo_agremiados": "Desconocido",
+                    "número_agremiados": [
+                        {
+                            "año": 0,
+                            "agremiados": 0
+                        }
+                    ]
+                }
+            ],
+            "coordinates": [
+                -89.6375953,
+                21.030960616975747
+            ]
+        }
+    ]
+}

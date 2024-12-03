@@ -1,0 +1,856 @@
+{
+    "cpis": [
+        {
+            "nombre_cpi": "Instituto de Investigación en Ciencia de Datos y Tecnologías de la Información y Comunicación",
+            "siglas_cpi": "INFOTEC",
+            "descripción_breve": "Es un instituto público de investigación en Ciencia de Datos y Tecnologías de la Información y Comunicación, integrado al Sistema Nacional de Centros de Investigación CONACYT.",
+            "descripción": "El INFOTEC es un instituto de investigación aplicada y desarrollo tecnológico enfocado en Ciencia de Datos, Inteligencia Artificial, Tecnologías de la Información y Comunicación. Nuestro trabajo abarca desde la generación de conocimiento hasta la transferencia de tecnología para promover la innovación y la transformación digital.",
+            "misión": "Generar conocimiento científico y tecnológico en Ciencia de Datos, Inteligencia Artificial y Tecnologías de la Información y Comunicación, promover su aplicación en sectores estratégicos y formar talento humano de alto nivel, contribuyendo así al desarrollo tecnológico y la transformación digital de México.",
+            "visión": "Ser un referente nacional e internacional en la investigación, desarrollo e innovación en Ciencia de Datos, Inteligencia Artificial y Tecnologías de la Información y Comunicación, impulsando soluciones tecnológicas innovadoras que impulsen el crecimiento económico y mejoren la calidad de vida.",
+            "titular": "Federico C. González Waite",
+            "fecha_designación_titular": "2023-09-15",
+            "grado_académico_titular": "Licenciatura",
+            "especialidad_titular": "Ciencia de Datos",
+            "origen": "El INFOTEC fue creado con el propósito de fortalecer la investigación y desarrollo en Ciencia de Datos, Inteligencia Artificial y Tecnologías de la Información y Comunicación en México. Desde su fundación en 2004, ha sido un actor clave en la generación de conocimiento y tecnología para impulsar la innovación tecnológica del país.",
+            "fecha_creación": "1974-08-30",
+            "historia_establecimiento": "El INFOTEC fue creado en el año 2004 como parte del Sistema de Centros Públicos de Investigación del Consejo Nacional de Ciencia y Tecnología (CONACYT) de México. A lo largo de los años, ha contribuido significativamente al avance científico y tecnológico en Ciencia de Datos y Tecnologías de la Información y Comunicación.",
+            "contexto_histórico": "En el siglo XXI, México reconoció la importancia estratégica de la Ciencia de Datos, la Inteligencia Artificial y las Tecnologías de la Información y Comunicación en el desarrollo socioeconómico del país. El establecimiento del INFOTEC respondió a la necesidad de contar con un centro de investigación dedicado a estas áreas para impulsar la innovación y la competitividad.",
+            "tipo_entidad_legal": "Organismo descentralizado del Estado, no sectorizado, con personalidad jurídica y patrimonio propio, que goza de autonomía técnica, operativa y administrativa",
+            "figura_jurídica": "Fideicomiso",
+            "marco_normativo": [
+                 {
+                    "ley_o_instrumento_jurídico": "BASES GENERALES PARA LA PROFESIONALIZACIÓN DEL PERSONAL DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE LAS ENTIDADES PARAESTATALES"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY GENERAL EN MATERIA DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS EN MATERIA DE AUSTERIDAD REPUBLICANA DE LAADMINISTRACIÓN PÚBLICA"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LINEAMIENTOS PARA LA DESIGNACIÓN, SUPLENCIA E INTERINATO DE LAS PERSONAS TITULARES DE LAS DIRECCIONES GENERALES O EQUIVALENTES DE LOS CENTROS PÚBLICOS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "LEY DE PLANEACIÓN"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2024"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DEL SISTEMA NACIONAL DE CENTROS PÚBLICOS DEL CONSEJO NACIONAL DE HUMANIDADES, CIENCIAS Y TECNOLOGÍAS"
+                },
+                {
+                    "ley_o_instrumento_jurídico": "REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD"
+                }
+            ],
+            "presupuesto": [
+                {
+                    "año": 2018,
+                    "total": 773954322,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 773954322
+                },
+                {
+                    "año": 2019,
+                    "total": 670028860,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 670028860
+                },
+                {
+                    "año": 2020,
+                    "total": 2048107395,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 2048107395
+                },
+                {
+                    "año": 2021,
+                    "total": 3441622361,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 3441622361
+                },
+                {
+                    "año": 2022,
+                    "total": 1875651667,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 1875651667
+                },
+                {
+                    "año": 2023,
+                    "total": 6386817465,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 6386817465
+                },
+                {
+                    "año": 2024,
+                    "total": 2034769859,
+                    "recursos_fiscales": 0,
+                    "recursos_propios": 2034769859
+                }
+            ],
+            "programas_académicos": [
+                {
+                    "programa": "DOCTORADO EN CIENCIAS EN CIENCIA DE DATOS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "CIENCIA E INGENIERÍA DE LA COMPUTACIÓN"
+                        }
+                    ],
+                    "nivel": "doctorado",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN CIENCIA DE DATOS E INFORMACIÓN",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "CIENCIA E INGENIERÍA DE LA COMPUTACIÓN"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN DERECHO DE LAS TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "CIENCIAS JURÍDICAS Y DERECHO",
+                            "disciplina_snii": "DERECHO Y LEGISLACIÓN NACIONALES"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN DIRECCIÓN ESTRATÉGICA DE LAS TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ciencias Sociales",
+                            "campo_snii": "ADMINISTRACIÓN / GESTIÓN EMPRESARIAL",
+                            "disciplina_snii": "ADMINISTRACIÓN Y ALTA DIRECCIÓN"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                },
+                {
+                    "programa": "MAESTRÍA EN SISTEMAS EMBEBIDOS",
+                    "disciplinas": [
+                        {
+                            "área_snii": "Ingeniería y Tecnología",
+                            "campo_snii": "INGENIERÍA Y TECNOLOGÍA",
+                            "disciplina_snii": "SISTEMAS EMBEBIDOS"
+                        }
+                    ],
+                    "nivel": "maestría",
+                    "modalidad": "regular",
+                    "vía": "presencial",
+                    "fecha_registro_sep": "1900-01-01",
+                    "alumnos_por_año": [
+                        {
+                            "año": 1970,
+                            "inscritos": 0,
+                            "con_beca_conahcyt": 0,
+                            "graduados_en_tiempo": 0,
+                            "bajas": 0,
+                            "graduados_fuera_tiempo": 0
+                        }
+                    ]
+                }
+            ],
+            "unidades": [
+                {
+                    "nombre_unidad": "INFOTEC Ciudad de México",
+                    "descripción_unidad": "INFOTEC es un centro de investigación y desarrollo en tecnologías de la información y comunicación, enfocado en la innovación, transferencia de tecnología y formación de capital humano especializado.",
+                    "dirección_postal": "Av. San Fernando 37, Toriello Guerra, Tlalpan, 14050 Ciudad de México, CDMX, México",
+                    "latitud": 19.291923501361016,
+                    "longitud": -99.1633669460279,
+                    "departamentos": [
+                        {
+                            "departamento": "Departamento de Tecnologías de la Información y Comunicación",
+                            "descripción_departamento": "Este departamento se dedica a la investigación, desarrollo e implementación de soluciones tecnológicas avanzadas en el ámbito de las tecnologías de la información y comunicación.",
+                            "áreas": [
+                                {
+                                    "área": "Ciberseguridad",
+                                    "descripción_del_área": "Investigación y desarrollo de tecnologías y estrategias para proteger los sistemas de información de ciberataques y amenazas digitales.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Protección de Infraestructuras Críticas",
+                                            "descripción": "Desarrollo de metodologías y herramientas para la protección de infraestructuras críticas contra amenazas cibernéticas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Computación",
+                                                    "disciplina_snii": "Seguridad Informática"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Seguridad en la Nube",
+                                            "descripción": "Investigación sobre técnicas de seguridad para proteger datos y aplicaciones en entornos de computación en la nube.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Computación",
+                                                    "disciplina_snii": "Seguridad Informática"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Inteligencia Artificial y Machine Learning",
+                                    "descripción_del_área": "Desarrollo e implementación de algoritmos y modelos de aprendizaje automático para resolver problemas complejos y mejorar procesos en diversos sectores.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Modelos Predictivos",
+                                            "descripción": "Investigación y desarrollo de modelos predictivos basados en inteligencia artificial para la toma de decisiones informada.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Computación",
+                                                    "disciplina_snii": "Inteligencia Artificial"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Procesamiento de Lenguaje Natural",
+                                            "descripción": "Desarrollo de técnicas y aplicaciones para el análisis y comprensión del lenguaje humano por parte de las máquinas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Computación",
+                                                    "disciplina_snii": "Inteligencia Artificial"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Big Data y Análisis de Datos",
+                                    "descripción_del_área": "Investigación y desarrollo de técnicas y herramientas para la gestión y análisis de grandes volúmenes de datos.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Analítica de Datos Masivos",
+                                            "descripción": "Desarrollo de tecnologías para la extracción de información valiosa de grandes conjuntos de datos para la toma de decisiones estratégicas.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Computación",
+                                                    "disciplina_snii": "Análisis de Datos"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Minería de Datos",
+                                            "descripción": "Investigación en técnicas de minería de datos para descubrir patrones y tendencias en grandes conjuntos de datos.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Computación",
+                                                    "disciplina_snii": "Análisis de Datos"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Desarrollo de Software",
+                                    "descripción_del_área": "Creación y mejora de metodologías y herramientas para el desarrollo eficiente de software de alta calidad.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "\"Metodologías Ágiles",
+                                            "descripción": "Investigación y aplicación de metodologías ágiles para mejorar la eficiencia y calidad en el desarrollo de software.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Computación",
+                                                    "disciplina_snii": "Ingeniería de Software"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "línea": "Desarrollo de Aplicaciones Móviles",
+                                            "descripción": "Creación de técnicas y herramientas para el desarrollo de aplicaciones móviles innovadoras y de alta calidad.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ciencias de la Computación",
+                                                    "disciplina_snii": "Ingeniería de Software"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -99.1633669460279,
+                        19.291923501361016
+                    ],
+                    "estado": "Ciudad de México",
+                    "municipio": "Coyoacán",
+                    "ciudad": "Ciudad de México",
+                    "código_postal": "04700"
+                },
+                {
+                    "nombre_unidad": "Infotec Aguascalientes",
+                    "descripción_unidad": "INFOTEC Aguascalientes se centra en la investigación aplicada y el desarrollo tecnológico en las áreas de TIC para impulsar el crecimiento regional.",
+                    "dirección_postal": "Cto. Tecnopolo Sur 112, 20326 Pocitos, Ags.",
+                    "latitud": 21.89541851939178,
+                    "longitud": -102.351896092137,
+                    "departamentos": [
+                        {
+                            "departamento": "Departamento de Innovación y Desarrollo Tecnológico",
+                            "descripción_departamento": "\"Focalizado en la creación de soluciones tecnológicas innovadoras que respondan a las necesidades del sector productivo y social.",
+                            "áreas": [
+                                {
+                                    "área": "Internet de las Cosas (IoT)",
+                                    "descripción_del_área": "Investigación y desarrollo de sensores y actuadores avanzados para aplicaciones en IoT.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Sensores y Actuadores Inteligentes",
+                                            "descripción": "Investigación y desarrollo de sensores y actuadores avanzados para aplicaciones en IoT.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ingeniería Electrónica",
+                                                    "disciplina_snii": "Internet de las Cosas"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "área": "Automatización y Robótica",
+                                    "descripción_del_área": "Desarrollo de sistemas automáticos y robots para mejorar la eficiencia y productividad en diversos sectores.",
+                                    "líneas_investigación": [
+                                        {
+                                            "línea": "Robots Colaborativo",
+                                            "descripción": "Desarrollo de robots que pueden trabajar junto a humanos en entornos industriales y de servicios.",
+                                            "disciplinas": [
+                                                {
+                                                    "área_snii": "Ciencias Físico Matemáticas y Ciencias de la Tierra",
+                                                    "campo_snii": "Ingeniería Mecatrónica",
+                                                    "disciplina_snii": "Robótica"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "fecha_inicia": "1900-01-01",
+                                    "fecha_fin": "1900-01-01",
+                                    "titular": "",
+                                    "fecha_designación_titular": "1900-01-01",
+                                    "grado_académico_titular": "",
+                                    "especialidad_titular": "",
+                                    "personal_técnico": [
+                                        {
+                                            "año": 0,
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "personal_académico": [
+                                        {
+                                            "año": "",
+                                            "especialistas_en": "",
+                                            "total": 0,
+                                            "total_con_snii": 0
+                                        }
+                                    ],
+                                    "mecanismos_coordinación": [
+                                        {
+                                            "cpi_contraparte": "",
+                                            "departamento_contraparte": "",
+                                            "área_contraparte": "",
+                                            "fecha_inicia": "1900-01-01",
+                                            "descripción": ""
+                                        }
+                                    ],
+                                    "procesos_internos": [
+                                        {
+                                            "proceso": "",
+                                            "fecha_inicio": "1900-01-01",
+                                            "descripción": "",
+                                            "tipo_proceso": "administración",
+                                            "documentos": [
+                                                {
+                                                    "descripción": "",
+                                                    "fecha": "1900-01-01",
+                                                    "url": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "equipamiento": [
+                                        {
+                                            "nombre_equipo": "",
+                                            "descripción": "",
+                                            "fecha_adquisición": "1900-01-01",
+                                            "precio_adquisición": 0,
+                                            "estado": "en_operación"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "titular": "",
+                            "fecha_inicia": "1900-01-01",
+                            "fecha_fin": "1900-01-01",
+                            "fecha_designación_titular": "1900-01-01",
+                            "grado_académico_titular": "doctorado",
+                            "especialidad_titular": ""
+                        }
+                    ],
+                    "fecha_inicia": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "titular": "",
+                    "fecha_designación_titular": "1900-01-01",
+                    "grado_académico_titular": "",
+                    "especialidad_titular": "",
+                    "coordenadas": [
+                        -102.351896092137,
+                        21.89541851939178
+                    ],
+                    "estado": "Aguascalientes",
+                    "municipio": "Municipio de Aguascalientes",
+                    "ciudad": "Aguascalientes",
+                    "código_postal": "20326"
+                }
+            ],
+            "redes_sociales": [
+                {
+                    "red": "Facebook",
+                    "identificador": "https://www.facebook.com/INFOTECMexico/?locale=es_LA",
+                    "activa": true,
+                    "propósito": "colaboración"
+                },
+                {
+                    "red": "YouTube",
+                    "identificador": "https://www.youtube.com/@InfotecMexico",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "X",
+                    "identificador": "https://twitter.com/InfotecMexico",
+                    "activa": true,
+                    "propósito": "difusión científica"
+                },
+                {
+                    "red": "LinkedIn",
+                    "identificador": "https://www.linkedin.com/company/infotec-mexico/?originalSubdomain=mx",
+                    "activa": true,
+                    "propósito": "colaboración"
+                }
+            ],
+            "importancia_diagnóstico": "",
+            "fuentes_financiamiento": [
+                {
+                    "fecha": "1900-01-01",
+                    "vigencia": "",
+                    "descripción": "",
+                    "monto_financiamiento": 0,
+                    "documentos": [
+                        {
+                            "fecha": "1900-01-01",
+                            "descripción": "",
+                            "liga": ""
+                        }
+                    ]
+                }
+            ],
+            "síntesis_hallazgos": [
+                {
+                    "hallazgo": "",
+                    "fecha_inicio": "1900-01-01",
+                    "fecha_fin": "1900-01-01",
+                    "reporta": "",
+                    "relevancia": "mediana",
+                    "notas": []
+                }
+            ],
+            "propuestas_fortalecimiento": [
+                {
+                    "propuesta": "",
+                    "fecha_inicio": "1900-01-01",
+                    "responsables": [],
+                    "relevancia": "alta",
+                    "avances": [
+                        {
+                            "fecha": "1900-01-01",
+                            "avance": ""
+                        }
+                    ]
+                }
+            ],
+            "sindicatos": [
+                {
+                    "sindicato": "",
+                    "tipo_agremiados": "Desconocido",
+                    "número_agremiados": [
+                        {
+                            "año": 0,
+                            "agremiados": 0
+                        }
+                    ]
+                }
+            ],
+            "coordinates": [
+                -99.16336694602792,
+                19.291923501361016
+            ]
+        }
+    ]
+}
